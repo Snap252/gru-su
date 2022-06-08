@@ -27,12 +27,12 @@ h1 {
 	display: table-cell;
 }
 input.cell {
-	width: 100%
+	width: 100%;
 }
 
 cite:before, cite:after{
-	content: '"'
+	content: '"';
 }
 .smaller {
-	font-size: 70%
+	font-size: 0.7rem;
 }

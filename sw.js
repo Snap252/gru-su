@@ -1,6 +1,6 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
-    caches.open('gru-su').then(cache => cache.addAll([
+    caches.open('gru-su-1.13').then(cache => cache.addAll([
       'index.html',
       'index.js',
       'style.css',
@@ -13,7 +13,7 @@ self.addEventListener('install', (e) => {
 })
 
 self.addEventListener('fetch', e => {
-  console.log({request: e.request, v: 11});
+  console.log({request: e.request, v: 13});
   e.respondWith(
     caches.match(e.request).then(resp => resp || fetch(e.request)).catch(() => fetch(e.request))
   )
