@@ -36,3 +36,8 @@ cite:before, cite:after{
 .smaller {
 	font-size: 0.7rem;
 }
+
+.version:after {
+	content: ' cssV1.14';
+	font-size: 0.5rem;
+}
