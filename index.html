@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background-color: white; font-size: 25pt;">
+<html>
   <head>
     <meta charset="utf-8">
 
@@ -22,13 +22,17 @@
   </head>
   <body>
     <span>v1.4</span>
-    <img style="width: 320px; height: initial; margin-left: auto; margin-right: auto;" alt="Logo - IuK Enepe-Ruhr-Kreis" src="images/logo.png" width="240" height="320" />
+    <button class="add-button">Zu Startbildschirm hinzufügen</button><br/>
+    <div>
+	    <img style="display:block; width: 320px; height: initial; margin-left: auto; margin-right: auto;" alt="Logo - Enepe-Ruhr-Kreis" src="images/logo.svg" width="240" height="320" />
+	    <h1>IuK<br/>Ennepe-Ruhr-Kreis</h1>
+    </div>
+    <hr/>
     <div class="ui-widget">
   		<label for="gruppen">Gruppe: </label>
   		<input id="gruppen">
 	</div>
 	<label for="wert">Wert: </label><span id="wert"></span>
-    <button class="add-button">Zu Startbildschirm hinzufügen</button>
   </body>
 <script>
 $(() => {
