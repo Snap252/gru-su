@@ -29,3 +29,10 @@ h1 {
 input.cell {
 	width: 100%
 }
+
+cite:before, cite:after{
+	content: '"'
+}
+.smaller {
+	font-size: 70%
+}
