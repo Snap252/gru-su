@@ -6,8 +6,7 @@
     {
       "src": "images/logo.svg",
       "type": "image/svg+xml",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     }
   ],
   "name": "BOS Gruppensuche NRW (Manifest 1.3)",
