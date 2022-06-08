@@ -21,21 +21,23 @@
     <link rel="manifest" href="manifest.webmanifest">
   </head>
   <body>
-    <span>v1.9</span>
+    <span>v1.10</span>
     <button class="add-button">Zu Startbildschirm hinzufügen</button><br/>
     <div>
 	    <img style="display:block; width: 320px; height: initial; margin-left: auto; margin-right: auto;" alt="Logo - Enepe-Ruhr-Kreis" src="images/logo.svg" width="240" height="320" />
 	    <h1>IuK<br/>Ennepe-Ruhr-Kreis</h1>
     </div>
     <hr/>
-    <div class="ui-widget">
-  		<label for="gruppen">Gruppe:</label>
-  		<input id="gruppen">
-	</div>
-	<br/>
-	<div class="ui-widget">
-		<label for="wert">Nummer:</label>
-		<input id="wert" readonly="readonly">
+    <div class="table">
+	    <div class="ui-widget row">
+	  		<label class="cell" for="gruppen">Gruppe:</label>
+	  		<input class="cell" id="gruppen">
+		</div>
+		<br/>
+		<div class="ui-widget row">
+			<label class="cell" for="wert">Nummer:</label>
+			<input class="cell" id="wert" readonly="readonly">
+		</div>
 	</div>
   </body>
 <script>
