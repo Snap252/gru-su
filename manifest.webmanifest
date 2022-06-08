@@ -11,8 +11,5 @@
   ],
   "name": "BOS Gruppensuche NRW (Manifest 1.5)",
   "short_name": "GruSuNRW",
-  "start_url": "index.html",
-  "lang": "de-DE",
-  "orientation" : "portrait-primary",
-  "theme_color": "aliceblue"
+  "start_url": "index.html"
 }
