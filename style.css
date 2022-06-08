@@ -8,10 +8,15 @@ body {
   background-color: white;
 }
 
-h1 {
-	font-size: 20pt;
+h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 	font-weight: bold;
+}
+h1 {
+	font-size: 20pt;
+}
+h5, h6 {
+	margin-block: .4em;
 }
 
 .table {
@@ -37,6 +42,6 @@ cite:before, cite:after{
 }
 
 .version:after {
-	content: ' css_V_1.18';
+	content: ' css_V_1.19';
 	font-size: 0.5rem;
 }
