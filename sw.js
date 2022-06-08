@@ -9,6 +9,7 @@ self.addEventListener('install', (e) => {
       'images/fox3.jpg',
       'images/fox4.jpg',
       'images/logo.png',
+      'images/logo.svg',
       'icon/fox-icon.png',
       'gruppen.js'
     ]))

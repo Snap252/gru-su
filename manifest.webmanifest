@@ -4,9 +4,10 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "images/logo.svg",
+      "type": "image/svg+xml",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "name": "BOS Gruppensuche NRW (Manifest 1.3)",
