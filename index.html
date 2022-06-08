@@ -21,19 +21,25 @@
   </head>
   <body style="background-color: white; font-size: 25pt;">
     <div class="ui-widget">
-  		<label for="tags">Gruppe: </label>
-  		<input id="tags">
+  		<label for="gruppen">Gruppe: </label>
+  		<input id="gruppen">
 	</div>
-	Wert: <span id="wert"></span>
+	<label for="wert">Wert: </label><span id="wert"></span>
     <button class="add-button">Zu Startbildschirm hinzufügen</button>
   </body>
 <script>
 $(() => {
-    $('#tags').autocomplete({
+	const gruppenInput = $('#gruppen') 
+    gruppenInput.autocomplete({
       source: gruppen,
       minLength:0,
       autoFocus: true,
-      select: (e, ui) => $('#wert').text(ui.item.value)
+      select: (e, ui) => {
+    	  //console.log({ui: ui, e: e})
+    	  $('#wert').text(ui.item.value)
+   	      gruppenInput.val(ui.item.label);
+   	      return false;
+      }
     });
   }
 );
