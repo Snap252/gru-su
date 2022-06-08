@@ -8,13 +8,16 @@ self.addEventListener('install', (e) => {
       'images/fox2.jpg',
       'images/fox3.jpg',
       'images/fox4.jpg',
+      'images/logo.png',
+      'icon/fox-icon.png',
+      'gruppen.js'
     ]))
   )
 })
 
 self.addEventListener('fetch', e => {
-  console.log(e.request.url);
+  console.log({request: e.request, v: 11});
   e.respondWith(
-    caches.match(e.request).then((response) => response || fetch(e.request))
+    caches.match(e.request).then(resp => resp || fetch(e.request)).catch(() => fetch(e.request))
   )
 })
