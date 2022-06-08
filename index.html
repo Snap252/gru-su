@@ -5,6 +5,7 @@
     <title>BOS Gruppensuche NRW (Titel)</title>
     <link href="style.css" rel="stylesheet">
     <script src="index.js" defer></script>
+    <script src="gruppen.js"></script>
     <script
   		src="https://code.jquery.com/jquery-3.6.0.min.js"
 		  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -28,15 +29,8 @@
   </body>
 <script>
 $(() => {
-    var availableTags = [
-    	{ label: "Gruppe1", value: "12345" },
-    	{ label: "Gruppe2", value: "23456" },
-    	{ label: "Gruppe3", value: "34567" },
-    	{ label: "Feuerwehr Aachen", value: "98765" },
-    	{ label: "Feuerwehr Wuppertal", value: "7654" },
-    ];
     $('#tags').autocomplete({
-      source: availableTags,
+      source: gruppen,
       minLength:0,
       autoFocus: true,
       select: (e, ui) => $('#wert').text(ui.item.value)
