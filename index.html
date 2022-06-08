@@ -5,10 +5,43 @@
     <title>BOS Gruppensuche NRW (Titel)</title>
     <link href="style.css" rel="stylesheet">
     <script src="index.js" defer></script>
+    <script
+  		src="https://code.jquery.com/jquery-3.6.0.min.js"
+		  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+		  crossorigin="anonymous"></script>
+  <script
+	  src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"
+	  	integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY="
+	  	crossorigin="anonymous"></script>
+  
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+  
     <link rel="manifest" href="manifest.webmanifest">
   </head>
-  <body>
+  <body style="background-color: white">
+    <div class="ui-widget">
+  		<label for="tags">Gruppe: </label>
+  		<input id="tags">
+	</div>
+	Wert: <span id="wert"></span>
     <button class="add-button">Zu Startbildschirm hinzufügen</button>
-    <p>this is just a test</p>
   </body>
+<script>
+$(() => {
+    var availableTags = [
+    	{ label: "Gruppe1", value: "12345" },
+    	{ label: "Gruppe2", value: "23456" },
+    	{ label: "Gruppe3", value: "34567" },
+    	{ label: "Feuerwehr Aachen", value: "98765" },
+    	{ label: "Feuerwehr Wuppertal", value: "7654" },
+    ];
+    $('#tags').autocomplete({
+      source: availableTags,
+      minLength:0,
+      autoFocus: true,
+      select: (e, ui) => $('#wert').text(ui.item.value)
+    });
+  }
+);
+</script>
 </html>
