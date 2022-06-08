@@ -1,6 +1,22 @@
-self.addEventListener('install', (e) => {
+const version = 'gru-su-1.16';
+const coreID = version + '_core';
+var cacheIDs = [coreID];
+
+self.addEventListener('activate', function (event) {
+	event.waitUntil(caches.keys().then(function (keys) {
+		return Promise.all(keys.filter(function (key) {
+			return !cacheIDs.includes(key);
+		}).map(function (key) {
+			return caches.delete(key);
+		}));
+	}).then(function () {
+		return self.clients.claim();
+	}));
+});
+
+self.addEventListener('install', e => {
   e.waitUntil(
-    caches.open('gru-su-1.14').then(cache => cache.addAll([
+    caches.open(coreID).then(cache => cache.addAll([
       'index.html',
       'index.js',
       'style.css',
@@ -13,7 +29,7 @@ self.addEventListener('install', (e) => {
 })
 
 self.addEventListener('fetch', e => {
-  console.log({request: e.request, v: 14});
+  console.log({request: e.request, version: version});
   e.respondWith(
     caches.match(e.request).then(resp => resp || fetch(e.request)).catch(() => fetch(e.request))
   )
