@@ -1,6 +1,5 @@
 html {
   height: 100%;
-  font-size: 40pt;
 }
 
 body {
@@ -38,6 +37,6 @@ cite:before, cite:after{
 }
 
 .version:after {
-	content: ' css_V_1.16';
+	content: ' css_V_1.18';
 	font-size: 0.5rem;
 }
