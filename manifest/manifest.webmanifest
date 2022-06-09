@@ -3,7 +3,7 @@
 	"background_color": "#50e3c2",
 	"display": "fullscreen",
 	"start_url": "index.html",
-	"name": "BOS Gruppensuche NRW (Manifest 1.18)",
+	"name": "BOS Gruppensuche NRW (Manifest 1.19)",
 	"short_name": "GruSuNRW",
 	"icons": [
 		{
