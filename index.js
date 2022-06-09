@@ -1,20 +1,4 @@
-const images = ['fox1', 'fox2', 'fox3', 'fox4'];
-
-function randomValueFromArray(array) {
-  const randomNo = Math.floor(Math.random() * array.length);
-  return array[randomNo];
-}
-
-// Register service worker to control making site work offline
-
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker
-    .register('sw.js')
-    .then(() => console.log('Service Worker Registered'));
-}
-
 // Code to handle install prompt on desktop
-
 let deferredPrompt;
 const addBtn = document.querySelector('.add-button');
 //addBtn.style.display = 'none';
