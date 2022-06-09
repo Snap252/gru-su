@@ -2,7 +2,6 @@
 	"theme_color": "#50e3c2",
 	"background_color": "#50e3c2",
 	"display": "fullscreen",
-	"scope": "/",
 	"start_url": "index.html",
 	"name": "BOS Gruppensuche NRW (Manifest 1.18)",
 	"short_name": "GruSuNRW",

@@ -1,4 +1,4 @@
-const version = 'gru-su-1.25';
+const version = 'gru-su-1.26';
 const coreID = version + '_core';
 var cacheIDs = [coreID];
 
@@ -21,7 +21,7 @@ self.addEventListener('install', event => {
 			'images/logo.svg',
 			'icon/fox-icon.png',
 			'gruppen.js',
-			'manifest.webmanifest',
+//			'manifest.webmanifest',
 			'https://code.jquery.com/jquery-3.6.0.min.js',
 			'https://code.jquery.com/ui/1.13.1/jquery-ui.min.js',
 			'https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css'
