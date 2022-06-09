@@ -34,6 +34,7 @@ h5, h6 {
 .table input, .table button {
 	grid-column: 2/3;
 }
+
 label, input, .share-button {
 	font-size: 1.25rem;
 }
@@ -46,7 +47,15 @@ cite:before, cite:after {
 	font-size: 0.7rem;
 }
 
+footer {
+	text-align: center;
+}
+
+footer p {
+	font-size: .5rem;
+	margin-block: 0.5em;
+}
 .version:after {
-	content: ' css_V_1.22';
-	font-size: 0.5rem;
+	content: '   - css_V_1.45';
+	font-size: 80%;
 }
