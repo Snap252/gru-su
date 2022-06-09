@@ -32,7 +32,6 @@
 			"sizes": "512x512",
 			"type": "image/png"
 		}
-        {}
 	],
 	"description": "Sucht Gruppennummern anhand des Namens."
 }
