@@ -43,7 +43,18 @@ if ('serviceWorker' in navigator) {
 	  		<input class="cell" id="gruppen">
 			<label class="cell" for="wert">Kurzwahl:</label>
 			<input class="cell" id="wert" readonly="readonly">
-			<button class="share-button" style="display: none">Teilen</button><br/>
+			<button class="share-button" style="display: none; font-size: 120%">
+				<svg style="width:24px; height:24px">
+					<g id="share-icon" viewBox="0 0 24 24" fill="none"
+						stroke="currentColor" stroke-width="2" stroke-linecap="round"
+						stroke-linejoin="round" class="feather feather-share">
+						<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+						<polyline points="16 6 12 2 8 6"></polyline>
+						<line x1="12" y1="2" x2="12" y2="15"></line></g>
+					</svg>
+				Teilen
+			</button>
+			<br/>
 		</div>
 	</div>
 	<hr/>
@@ -54,7 +65,7 @@ if ('serviceWorker' in navigator) {
 		<li><cite>Anhängen</cite> auswählen</li>
 	</ul>
 	<hr/>
-    <span class="version">v1.41</span>
+    <span class="version">v1.42</span>
     <button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
   </body>
 <script>
