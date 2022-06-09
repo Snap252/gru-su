@@ -32,7 +32,7 @@ shareBtn.click(() => {
 
 	const shareData = {
 		title: `BOS-Gruppe '${lastWert.label}'`,
-		link: `${window.location.href}?gruppe=${lastWert.label}`,
+		url: `${window.location.href}?gruppe=${lastWert.label}`,
 		text:
 `Wechseln Sie in die BOS-Gruppe '${lastWert.label}': 
     * Betriebsart auswählen (DMO/TMO)
