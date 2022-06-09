@@ -2,6 +2,11 @@
 <html>
   <head>
     <meta charset="utf-8">
+
+    <title>BOS Gruppensuche NRW (Titel)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="manifest" href="manifest/manifest.webmanifest">
+
     <script type="text/javascript">
 // Register service worker to control making site work offline
 if ('serviceWorker' in navigator) {
@@ -11,12 +16,6 @@ if ('serviceWorker' in navigator) {
 }
     </script>
 
-    <title>BOS Gruppensuche NRW (Titel)</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    
-    <link href="style.css" rel="stylesheet">
-    <script src="index.js" defer></script>
-    <script src="gruppen.js"></script>
     <script
   		src="https://code.jquery.com/jquery-3.6.0.min.js"
 		  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -25,10 +24,12 @@ if ('serviceWorker' in navigator) {
 	  src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"
 	  	integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY="
 	  	crossorigin="anonymous"></script>
+    <script src="index.js" defer></script>
+    <link href="style.css" rel="stylesheet">
+    <script src="gruppen.js"></script>
   
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
   
-    <link rel="manifest" href="manifest/manifest.webmanifest">
   </head>
   <body>
     <div>
@@ -56,7 +57,7 @@ if ('serviceWorker' in navigator) {
 		<li><cite>Anhängen</cite> auswählen</li>
 	</ul>
 	<hr/>
-    <span class="version">v1.22</span>
+    <span class="version">v1.23</span>
     <button class="add-button">Zu Startbildschirm hinzufügen</button><br/>
   </body>
 <script>
