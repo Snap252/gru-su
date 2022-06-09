@@ -58,7 +58,7 @@ if ('serviceWorker' in navigator) {
 		<li><cite>Anhängen</cite> auswählen</li>
 	</ul>
 	<hr/>
-    <span class="version">v1.36</span>
+    <span class="version">v1.37</span>
     <button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
   </body>
 <script>
@@ -67,7 +67,7 @@ $(".add-button").button()
 let lastWert;
 $(() => {
 	const gruppenInput = $('#gruppen')
-    const ac = gruppenInput.autocomplete({
+    gruppenInput.autocomplete({
       source: gruppen,
       minLength:0,
       autoFocus: true,
@@ -80,10 +80,6 @@ $(() => {
    	      return false;
       }
     });
-	const searchLabel = (new URL(document.location)).searchParams.get('gruppe')
-	if (searchLabel) {
-		ac.autocomplete( "search", searchLabel);
-	}
   }
 );
 </script>
