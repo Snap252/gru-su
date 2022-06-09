@@ -36,7 +36,7 @@ shareBtn.click(() => {
 `Wechseln Sie in die BOS-Gruppe '${lastWert.label}': 
     - Betriebsart auswählen (DMO/TMO)
     - Kurzwahl '${lastWert.value}' eingeben, danach '*' drücken
-    - Anlagen auswählen`
+    - Anlage auswählen`
 	}
 	navigator.share(shareData)
 		.then(() => console.log('Successful share'))
