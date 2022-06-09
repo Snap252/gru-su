@@ -1,4 +1,4 @@
-const version = 'gru-su-1.38';
+const version = 'gru-su-1.41';
 const coreID = version + '_core';
 var cacheIDs = [coreID];
 
@@ -16,7 +16,7 @@ self.addEventListener('install', event => {
 	event.waitUntil(
 		caches.open(coreID).then(cache => cache.addAll([
 //			'index.js',
-			'style.css',
+//			'style.css',
 			'images/logo.png',
 			'images/logo.svg',
 			'gruppen.js',

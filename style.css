@@ -22,20 +22,17 @@ h5, h6 {
 }
 
 .table {
-	display: table;
-	width: 100%;
+	display: grid;
+	grid-template-columns: 75px 1fr;
+	grid-gap: 16px;
 }
 
-.table .row {
-	display: table-row;
+.table label {
+	grid-column: 1/2;
 }
 
-.table .row .cell {
-	display: table-cell;
-}
-
-input.cell {
-	width: 100%;
+.table input, .table button {
+	grid-column: 2/3;
 }
 
 cite:before, cite:after {
