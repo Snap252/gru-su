@@ -34,6 +34,9 @@ h5, h6 {
 .table input, .table button {
 	grid-column: 2/3;
 }
+label, input, .share-button {
+	font-size: 1.25rem;
+}
 
 cite:before, cite:after {
 	content: '"';
