@@ -25,3 +25,21 @@ window.addEventListener('beforeinstallprompt', e => {
 		});
 	});
 });
+
+const shareBtn = $('.share-button')
+shareBtn.click(() => {
+	if (!lastWert) return;
+
+	const shareData = {
+		title: `BOS-Gruppe '${lastWert.label}'`,
+		link: `${window.location.href}?gruppe=${lastWert.label}`,
+		text:
+`Wechseln Sie in die BOS-Gruppe '${lastWert.label}': 
+    * Betriebsart auswählen (DMO/TMO)
+    * Kurzwahl '${lastWert.value}' eingeben, danach # drücken
+    * Anhängen auswählen`
+	}
+	navigator.share(shareData)
+		.then(() => console.log('Successful share'))
+		.catch((error) => console.log('Error sharing', error));
+})

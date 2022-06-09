@@ -47,6 +47,7 @@ if ('serviceWorker' in navigator) {
 		<div class="ui-widget row">
 			<label class="cell" for="wert">Kurzwahl:</label>
 			<input class="cell" id="wert" readonly="readonly">
+	<button class="share-button" style="display: none">⤴</button><br/>
 		</div>
 	</div>
 	<hr/>
@@ -57,12 +58,15 @@ if ('serviceWorker' in navigator) {
 		<li><cite>Anhängen</cite> auswählen</li>
 	</ul>
 	<hr/>
-    <span class="version">v1.26</span>
+    <span class="version">v1.33</span>
     <button class="add-button">Zu Startbildschirm hinzufügen</button><br/>
   </body>
 <script>
+$(".share-button").button()
+$(".add-button").button()
+let lastWert;
 $(() => {
-	const gruppenInput = $('#gruppen') 
+	const gruppenInput = $('#gruppen')
     gruppenInput.autocomplete({
       source: gruppen,
       minLength:0,
@@ -70,7 +74,9 @@ $(() => {
       select: (e, ui) => {
     	  //console.log({ui: ui, e: e})
     	  $('#wert').val(ui.item.value)
-   	      gruppenInput.val(ui.item.label);
+   	      gruppenInput.val(ui.item.label)
+    	  lastWert = ui.item
+    	  $(".share-button").show()
    	      return false;
       }
     });
