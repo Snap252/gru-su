@@ -24,7 +24,6 @@ h5, h6 {
 
 .table {
 	display: grid;
-	align-items: baseline;
 	grid-template-columns: 85px 1fr;
 	grid-gap: 16px;
 }
@@ -58,6 +57,6 @@ footer p {
 	margin-block: 0.5em;
 }
 .version:after {
-	content: '   - css_V_1.46';
+	content: '   - css_V_1.48';
 	font-size: 80%;
 }
