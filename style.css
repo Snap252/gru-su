@@ -24,7 +24,8 @@ h5, h6 {
 
 .table {
 	display: grid;
-	grid-template-columns: 75px 1fr;
+	align-items: baseline;
+	grid-template-columns: 85px 1fr;
 	grid-gap: 16px;
 }
 
