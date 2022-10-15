@@ -56,7 +56,12 @@ footer p {
 	font-size: .5rem;
 	margin-block: 0.5em;
 }
+fieldset {
+	margin: unset;
+	border: none;
+	padding: unset;
+}
 .version:after {
-	content: '   - css_V_1.48';
+	content: '   - css_V_2.01';
 	font-size: 80%;
 }
