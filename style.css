@@ -61,7 +61,11 @@ fieldset {
 	border: none;
 	padding: unset;
 }
+#gebiet {
+	display: inline-grid;
+	grid-column: 2/3;
+}
 .version:after {
-	content: '   - css_V_2.01';
+	content: '   - css_V_2.02';
 	font-size: 80%;
 }
