@@ -85,8 +85,8 @@ if ('serviceWorker' in navigator) {
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.07">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v2.07</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.10">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v2.10</p>
 	</footer>
 	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
 </body>
@@ -106,16 +106,16 @@ $(() => {
 			gruppenInput.val(ui.item.label)
 			lastWert = ui.item
 			{
-				$('#RTH').toggle(!!ui.item.RTH);
-				$('#nPol').toggle(!!ui.item.nPol);
-				$('#THW').toggle(!!ui.item.THW);
-				$('#Pol').toggle(!!ui.item.Pol);
+				$('#RTH').toggleClass('hidden', !ui.item.RTH);
+				$('#nPol').toggleClass('hidden', !ui.item.nPol);
+				$('#THW').toggleClass('hidden', !ui.item.THW);
+				$('#Pol').toggleClass('hidden', !ui.item.Pol);
 				$(".nutzer").toggle(!!ui.item.RTH || !!ui.item.nPol || !!ui.item.THW || !!ui.item.Pol)
 			}
 			{	
-				$('#Kreisweit').toggle(!!ui.item.Kreisweit);
-				$('#Landesweit').toggle(!!ui.item.Landesweit);
-				$('#Bundesweit').toggle(!!ui.item.Bundesweit);
+				$('#Kreisweit').toggleClass('hidden', !ui.item.Kreisweit);
+				$('#Landesweit').toggleClass('hidden', !ui.item.Landesweit);
+				$('#Bundesweit').toggleClass('hidden', !ui.item.Bundesweit);
 				$(".gebiet").toggle(!!ui.item.Kreisweit || !!ui.item.Landesweit || !!ui.item.Bundesweit)
 			}
 			$(".share-button").show()

@@ -72,7 +72,7 @@ fieldset {
 	border: 1px solid #777;
 	border-radius: 3px;
 	text-align: center;
-	min-width: 25%
+	flex: 1 0 0%;
 }
 #RTH {
 	background-color: lightgrey;
@@ -98,7 +98,6 @@ fieldset {
 		#DE572877 33%, #DE572877 66%,
 		#4D81BC77 66%
 	);
-	width: 100%
 }
 #Landesweit {
 	background-image: linear-gradient(  -225deg,
@@ -114,7 +113,12 @@ fieldset {
 		#fc07 66%
 	);
 }
+.hidden {
+	visibility: hidden;
+	order: 100;
+}
+
 .version:after {
-	content: '   - css_V_2.08';
+	content: '   - css_V_2.10';
 	font-size: 80%;
 }
