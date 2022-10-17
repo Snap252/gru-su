@@ -75,7 +75,7 @@ fieldset {
 	border: 1px solid #777;
 	border-radius: 3px;
 	text-align: center;
-	width: 100%;
+	width: 25%
 }
 #RTH {
 	background-color: lightgrey;
@@ -95,6 +95,6 @@ fieldset {
 	background-color: green;
 }
 .version:after {
-	content: '   - css_V_2.06';
+	content: '   - css_V_2.07';
 	font-size: 80%;
 }
