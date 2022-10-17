@@ -29,14 +29,24 @@ window.addEventListener('beforeinstallprompt', e => {
 const shareBtn = $('.share-button')
 shareBtn.click(() => {
 	if (!lastWert) return;
+	const funke =  $('input[name="funke"]:checked').val();
+	console.log({funke})
+	
 
 	const shareData = {
 		title: `BOS-Gruppe '${lastWert.label}'`,
-		text:
-`Wechseln Sie in die BOS-Gruppe '${lastWert.label}': 
+		text: funke == 'motorola' ? 
+`Wechseln Sie in die BOS-Gruppe '${lastWert.label}' 
+Motorola-Geräte:
     - Betriebsart auswählen (DMO/TMO)
     - Kurzwahl '${lastWert.value}' eingeben, danach '*' drücken
-    - Anlage auswählen`
+    - Anlage auswählen` : 
+`Wechseln Sie in die BOS-Gruppe '${lastWert.label}'
+Sepura-Geräte:
+    - Modustaste drücken
+    - Nummer '${lastWert.value}' eingeben
+    - bestätigen
+`
 	}
 	navigator.share(shareData)
 		.then(() => console.log('Successful share'))

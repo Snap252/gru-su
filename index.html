@@ -75,18 +75,31 @@ if ('serviceWorker' in navigator) {
 	</div>
 	<hr/>
 	<br/>
-	<ul class="smaller" style="padding-inline-start: 20%;">
-		<li>Betriebsart auswählen (<cite>DMO</cite>/<cite>TMO</cite>)</li>
-		<li>Kurzwahl eingeben, danach <cite>*</cite> drücken</li>
-		<li><cite>Anlage</cite> auswählen</li>
-	</ul>
+	<div style="display: flex;" class="smaller">
+		<div style="flex-grow: 1">
+			<label for="motorola"><input type="radio" id="motorola" name="funke" value="motorola" checked>Motorola</label>
+			<ul class="smaller">
+				<li>Betriebsart auswählen (<cite>DMO</cite>/<cite>TMO</cite>)</li>
+				<li>Kurzwahl eingeben, danach <cite>*</cite> drücken</li>
+				<li><cite>Anlage</cite> auswählen</li>
+			</ul>
+		</div>
+		<div style="flex-grow: 1">
+			<label for="sepura"><input type="radio" id="sepura" name="funke" value="sepura">Sepura</label>
+			<ul>
+				<li>Modustaste drücken</li>
+				<li>Nummer eingeben</li>
+				<li>bestätigen</li>
+			</ul>
+		</div>
+	</div>
 	<hr/>
 	<footer>
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.10">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v2.10</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.12">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v2.12</p>
 	</footer>
 	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
 </body>
