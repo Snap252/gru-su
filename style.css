@@ -65,7 +65,35 @@ fieldset {
 	display: inline-grid;
 	grid-column: 2/3;
 }
+#nutzer {
+	display: flex;
+	justify-content: stretch;
+	align-items: stretch;
+	column-gap: 5px;
+}
+#RTH, #nPol, #THW, #Pol {
+	border: 1px solid black;
+	text-align: center;
+	width: 100%;
+}
+#RTH {
+	background-color: lightgrey;
+}
+#nPol {
+	background-image: linear-gradient(
+		90deg,
+		red 0%, red 33%,
+		white 33%, white 66%,
+		orange 66%
+	)
+}
+#THW {
+	background-color: lightblue;
+}
+#Pol{
+	background-color: green;
+}
 .version:after {
-	content: '   - css_V_2.02';
+	content: '   - css_V_2.05';
 	font-size: 80%;
 }
