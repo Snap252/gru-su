@@ -56,11 +56,11 @@ if ('serviceWorker' in navigator) {
 		</fieldset>
 		<label class="gebiet cell needs_selection" for="gebiet" style="display: none">Gebiet:</label>
 		<fieldset id="gebiet" class="gebiet cell needs_selection" disabled="disabled" style="display: none">
-			<label><input type="checkbox" id="Kreisweit">kreisweit + Anrainer</label>
-			<label><input type="checkbox" id="Landesweit">landesweit</label>
-			<label><input type="checkbox" id="Bundesweit">bundesweit</label>
+			<label id="Kreisweit">Kreis</label>
+			<label id="Landesweit">Land</label>
+			<label id="Bundesweit">Bund</label>
 		</fieldset>
-		<button class="share-button" style="display: none">
+		<button class="share-button" style="display: none; margin-right: 0">
 			<svg style="width:24px; height:24px">
 				<g id="share-icon" viewBox="0 0 24 24" fill="none"
 					stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -85,8 +85,8 @@ if ('serviceWorker' in navigator) {
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V21%20-%20v1.47">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v2.05</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V21%20-%20v2.07">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v2.07</p>
 	</footer>
 	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
 </body>
@@ -113,9 +113,9 @@ $(() => {
 				$(".nutzer").toggle(!!ui.item.RTH || !!ui.item.nPol || !!ui.item.THW || !!ui.item.Pol)
 			}
 			{	
-				$('#Kreisweit').prop('checked', !!ui.item.Kreisweit);
-				$('#Landesweit').prop('checked', !!ui.item.Landesweit);
-				$('#Bundesweit').prop('checked', !!ui.item.Bundesweit);
+				$('#Kreisweit').toggle(!!ui.item.Kreisweit);
+				$('#Landesweit').toggle(!!ui.item.Landesweit);
+				$('#Bundesweit').toggle(!!ui.item.Bundesweit);
 				$(".gebiet").toggle(!!ui.item.Kreisweit || !!ui.item.Landesweit || !!ui.item.Bundesweit)
 			}
 			$(".share-button").show()

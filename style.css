@@ -61,21 +61,18 @@ fieldset {
 	border: none;
 	padding: unset;
 }
-#gebiet {
-	display: inline-grid;
-	grid-column: 2/3;
-}
-#nutzer {
+#gebiet, #nutzer {
 	display: flex;
 	justify-content: stretch;
 	align-items: stretch;
 	column-gap: 5px;
 }
-#nutzer * {
+
+#nutzer *, #gebiet * {
 	border: 1px solid #777;
 	border-radius: 3px;
 	text-align: center;
-	width: 25%
+	min-width: 25%
 }
 #RTH {
 	background-color: lightgrey;
@@ -91,10 +88,33 @@ fieldset {
 #THW {
 	background-color: lightblue;
 }
-#Pol{
+#Pol {
 	background-color: green;
 }
+#Kreisweit {
+	background-image: linear-gradient(
+		-225deg,
+		#00008077 33%,
+		#DE572877 33%, #DE572877 66%,
+		#4D81BC77 66%
+	);
+	width: 100%
+}
+#Landesweit {
+	background-image: linear-gradient(  -225deg,
+		#00923377 33%,
+		#FFFFFF77 33%, #FFFFFF77 66%,
+		#E4001477 66%
+	);
+}
+#Bundesweit {
+	background-image: linear-gradient(  -225deg,
+		#0007 33%,
+		#d007 33%, #d007 66%,
+		#fc07 66%
+	);
+}
 .version:after {
-	content: '   - css_V_2.07';
+	content: '   - css_V_2.08';
 	font-size: 80%;
 }
