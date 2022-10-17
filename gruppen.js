@@ -1,3 +1,4 @@
+const gruppen_version = "V22";
 const gruppen =
 // cut here!!! 
 // use https://csvjson.com/csv2json
