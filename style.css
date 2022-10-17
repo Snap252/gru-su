@@ -119,6 +119,6 @@ fieldset {
 }
 
 .version:after {
-	content: '   - css_V_2.10';
+	content: '   - css_V_2.11';
 	font-size: 80%;
 }
