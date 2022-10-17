@@ -71,8 +71,9 @@ fieldset {
 	align-items: stretch;
 	column-gap: 5px;
 }
-#RTH, #nPol, #THW, #Pol {
-	border: 1px solid black;
+#nutzer * {
+	border: 1px solid #777;
+	border-radius: 3px;
 	text-align: center;
 	width: 100%;
 }
@@ -94,6 +95,6 @@ fieldset {
 	background-color: green;
 }
 .version:after {
-	content: '   - css_V_2.05';
+	content: '   - css_V_2.06';
 	font-size: 80%;
 }
