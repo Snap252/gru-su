@@ -1,4 +1,4 @@
-const version = 'gru-su-2.05';
+const version = 'gru-su-2.20';
 const coreID = version + '_core';
 var cacheIDs = [coreID];
 

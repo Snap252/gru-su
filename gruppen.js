@@ -700,7 +700,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9582
 },
 {
 	"value":1102,
@@ -710,7 +711,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9583
 },
 {
 	"value":1103,
@@ -812,7 +814,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9585
 },
 {
 	"value":1202,
@@ -822,7 +825,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9586
 },
 {
 	"value":1203,
@@ -929,7 +933,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9618
 },
 {
 	"value":1302,
@@ -939,7 +944,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9619
 },
 {
 	"value":1303,
@@ -1041,7 +1047,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9588
 },
 {
 	"value":1402,
@@ -1051,7 +1058,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9589
 },
 {
 	"value":1403,
@@ -1183,7 +1191,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9591
 },
 {
 	"value":1502,
@@ -1193,7 +1202,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9592
 },
 {
 	"value":1503,
@@ -1295,7 +1305,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9546
 },
 {
 	"value":1602,
@@ -1305,7 +1316,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9547
 },
 {
 	"value":1603,
@@ -1407,7 +1419,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9639
 },
 {
 	"value":1702,
@@ -1417,7 +1430,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9640
 },
 {
 	"value":1703,
@@ -1572,7 +1586,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9642
 },
 {
 	"value":1802,
@@ -1582,7 +1597,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9643
 },
 {
 	"value":1803,
@@ -1684,7 +1700,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9645
 },
 {
 	"value":1902,
@@ -1694,7 +1711,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9646
 },
 {
 	"value":1903,
@@ -1813,7 +1831,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9501
 },
 {
 	"value":2002,
@@ -1823,7 +1842,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9502
 },
 {
 	"value":2003,
@@ -1943,7 +1963,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9594
 },
 {
 	"value":2102,
@@ -1953,7 +1974,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9595
 },
 {
 	"value":2103,
@@ -2096,7 +2118,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9549
 },
 {
 	"value":2202,
@@ -2106,7 +2129,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9550
 },
 {
 	"value":2203,
@@ -2208,7 +2232,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9504
 },
 {
 	"value":2302,
@@ -2218,7 +2243,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9505
 },
 {
 	"value":2303,
@@ -2344,7 +2370,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9507
 },
 {
 	"value":2402,
@@ -2354,7 +2381,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9508
 },
 {
 	"value":2403,
@@ -2456,7 +2484,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9552
 },
 {
 	"value":2502,
@@ -2466,7 +2495,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9553
 },
 {
 	"value":2503,
@@ -2580,7 +2610,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9597
 },
 {
 	"value":2602,
@@ -2590,7 +2621,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9598
 },
 {
 	"value":2603,
@@ -2709,7 +2741,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9648
 },
 {
 	"value":2702,
@@ -2719,7 +2752,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9649
 },
 {
 	"value":2703,
@@ -2821,7 +2855,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9600
 },
 {
 	"value":2802,
@@ -2831,7 +2866,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9601
 },
 {
 	"value":2803,
@@ -2938,7 +2974,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9603
 },
 {
 	"value":2902,
@@ -2948,7 +2985,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9604
 },
 {
 	"value":2903,
@@ -3080,7 +3118,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9621
 },
 {
 	"value":3002,
@@ -3090,7 +3129,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9622
 },
 {
 	"value":3003,
@@ -3235,12 +3275,13 @@ const gruppen =
 {
 	"value":3101,
 	"label":"HA_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9555
 },
 {
 	"value":3102,
@@ -3250,7 +3291,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9556
 },
 {
 	"value":3103,
@@ -3347,12 +3389,13 @@ const gruppen =
 {
 	"value":3201,
 	"label":"HAM_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9558
 },
 {
 	"value":3202,
@@ -3362,7 +3405,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9559
 },
 {
 	"value":3203,
@@ -3459,12 +3503,13 @@ const gruppen =
 {
 	"value":3301,
 	"label":"HER_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9561
 },
 {
 	"value":3302,
@@ -3474,7 +3519,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9562
 },
 {
 	"value":3303,
@@ -3571,12 +3617,13 @@ const gruppen =
 {
 	"value":3401,
 	"label":"HF_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9624
 },
 {
 	"value":3402,
@@ -3586,7 +3633,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9625
 },
 {
 	"value":3403,
@@ -3689,12 +3737,13 @@ const gruppen =
 {
 	"value":3501,
 	"label":"HS_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9606
 },
 {
 	"value":3502,
@@ -3704,7 +3753,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9607
 },
 {
 	"value":3503,
@@ -3813,12 +3863,13 @@ const gruppen =
 {
 	"value":3601,
 	"label":"HSK_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9564
 },
 {
 	"value":3602,
@@ -3828,7 +3879,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9565
 },
 {
 	"value":3603,
@@ -3949,12 +4001,13 @@ const gruppen =
 {
 	"value":3701,
 	"label":"HX_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9627
 },
 {
 	"value":3702,
@@ -3964,7 +4017,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9628
 },
 {
 	"value":3703,
@@ -4073,12 +4127,13 @@ const gruppen =
 {
 	"value":3801,
 	"label":"K_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9609
 },
 {
 	"value":3802,
@@ -4088,7 +4143,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9610
 },
 {
 	"value":3803,
@@ -4233,12 +4289,13 @@ const gruppen =
 {
 	"value":3901,
 	"label":"KLE_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9510
 },
 {
 	"value":3902,
@@ -4248,7 +4305,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9511
 },
 {
 	"value":3903,
@@ -4393,12 +4451,13 @@ const gruppen =
 {
 	"value":4001,
 	"label":"KR_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9513
 },
 {
 	"value":4002,
@@ -4408,7 +4467,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9514
 },
 {
 	"value":4003,
@@ -4517,12 +4577,13 @@ const gruppen =
 {
 	"value":4101,
 	"label":"LEV_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9612
 },
 {
 	"value":4102,
@@ -4532,7 +4593,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9613
 },
 {
 	"value":4103,
@@ -4635,12 +4697,13 @@ const gruppen =
 {
 	"value":4201,
 	"label":"LIP_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9630
 },
 {
 	"value":4202,
@@ -4650,7 +4713,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9631
 },
 {
 	"value":4203,
@@ -4795,12 +4859,13 @@ const gruppen =
 {
 	"value":4301,
 	"label":"ME_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9516
 },
 {
 	"value":4302,
@@ -4810,7 +4875,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9517
 },
 {
 	"value":4303,
@@ -4919,12 +4985,13 @@ const gruppen =
 {
 	"value":4401,
 	"label":"MG_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9519
 },
 {
 	"value":4402,
@@ -4934,7 +5001,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9520
 },
 {
 	"value":4403,
@@ -5031,12 +5099,13 @@ const gruppen =
 {
 	"value":4501,
 	"label":"MH_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9522
 },
 {
 	"value":4502,
@@ -5046,7 +5115,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9523
 },
 {
 	"value":4503,
@@ -5143,12 +5213,13 @@ const gruppen =
 {
 	"value":4601,
 	"label":"MI_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9633
 },
 {
 	"value":4602,
@@ -5158,7 +5229,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9634
 },
 {
 	"value":4603,
@@ -5279,12 +5351,13 @@ const gruppen =
 {
 	"value":4701,
 	"label":"MK_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9567
 },
 {
 	"value":4702,
@@ -5294,7 +5367,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9568
 },
 {
 	"value":4703,
@@ -5439,12 +5513,13 @@ const gruppen =
 {
 	"value":4801,
 	"label":"MS_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9654
 },
 {
 	"value":4802,
@@ -5454,7 +5529,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9655
 },
 {
 	"value":4803,
@@ -5563,12 +5639,13 @@ const gruppen =
 {
 	"value":4901,
 	"label":"NE_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9525
 },
 {
 	"value":4902,
@@ -5578,7 +5655,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9526
 },
 {
 	"value":4903,
@@ -5693,12 +5771,13 @@ const gruppen =
 {
 	"value":5001,
 	"label":"OB_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9528
 },
 {
 	"value":5002,
@@ -5708,7 +5787,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9529
 },
 {
 	"value":5003,
@@ -5811,12 +5891,13 @@ const gruppen =
 {
 	"value":5101,
 	"label":"OE_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9570
 },
 {
 	"value":5102,
@@ -5826,7 +5907,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9571
 },
 {
 	"value":5103,
@@ -5917,12 +5999,13 @@ const gruppen =
 {
 	"value":5201,
 	"label":"PB_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9636
 },
 {
 	"value":5202,
@@ -5932,7 +6015,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9637
 },
 {
 	"value":5203,
@@ -6041,12 +6125,13 @@ const gruppen =
 {
 	"value":5301,
 	"label":"RE_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9531
 },
 {
 	"value":5302,
@@ -6056,7 +6141,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9532
 },
 {
 	"value":5303,
@@ -6183,12 +6269,13 @@ const gruppen =
 {
 	"value":5401,
 	"label":"RS_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9531
 },
 {
 	"value":5402,
@@ -6198,7 +6285,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9532
 },
 {
 	"value":5403,
@@ -6295,12 +6383,13 @@ const gruppen =
 {
 	"value":5501,
 	"label":"SG_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9534
 },
 {
 	"value":5502,
@@ -6310,7 +6399,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9535
 },
 {
 	"value":5503,
@@ -6407,12 +6497,13 @@ const gruppen =
 {
 	"value":5601,
 	"label":"SI_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9573
 },
 {
 	"value":5602,
@@ -6422,7 +6513,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9574
 },
 {
 	"value":5603,
@@ -6537,12 +6629,13 @@ const gruppen =
 {
 	"value":5701,
 	"label":"SO_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9576
 },
 {
 	"value":5702,
@@ -6552,7 +6645,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9577
 },
 {
 	"value":5703,
@@ -6685,12 +6779,13 @@ const gruppen =
 {
 	"value":5801,
 	"label":"ST_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9660
 },
 {
 	"value":5802,
@@ -6700,7 +6795,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9661
 },
 {
 	"value":5803,
@@ -6899,12 +6995,13 @@ const gruppen =
 {
 	"value":5901,
 	"label":"SU_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9615
 },
 {
 	"value":5902,
@@ -6914,7 +7011,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9616
 },
 {
 	"value":5903,
@@ -7083,12 +7181,13 @@ const gruppen =
 {
 	"value":6001,
 	"label":"UN_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9579
 },
 {
 	"value":6002,
@@ -7098,7 +7197,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9580
 },
 {
 	"value":6003,
@@ -7207,12 +7307,13 @@ const gruppen =
 {
 	"value":6101,
 	"label":"VIE_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9537
 },
 {
 	"value":6102,
@@ -7222,7 +7323,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9538
 },
 {
 	"value":6103,
@@ -7325,12 +7427,13 @@ const gruppen =
 {
 	"value":6201,
 	"label":"W_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9540
 },
 {
 	"value":6202,
@@ -7340,7 +7443,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9541
 },
 {
 	"value":6203,
@@ -7443,12 +7547,13 @@ const gruppen =
 {
 	"value":6301,
 	"label":"WAF_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9663
 },
 {
 	"value":6302,
@@ -7458,7 +7563,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9664
 },
 {
 	"value":6303,
@@ -7591,12 +7697,13 @@ const gruppen =
 {
 	"value":6401,
 	"label":"WES_Anruf",
-	"RTH":"X",
+	"RTH":true,
 	"nPol":true,
-	"THW":"X",
-	"Pol":"X",
+	"THW":true,
+	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":"X"
+	"Landesweit":true,
+	"POL Kurzwahl":9543
 },
 {
 	"value":6402,
@@ -7606,7 +7713,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9544
 },
 {
 	"value":6403,
@@ -7885,12 +7993,12 @@ const gruppen =
 {
 	"value":6541,
 	"label":"DH_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true
 },
 {
 	"value":6542,
@@ -7927,12 +8035,12 @@ const gruppen =
 {
 	"value":6551,
 	"label":"VEC_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true
 },
 {
 	"value":6552,
@@ -7969,12 +8077,12 @@ const gruppen =
 {
 	"value":6561,
 	"label":"HM_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true
 },
 {
 	"value":6562,
@@ -8075,12 +8183,12 @@ const gruppen =
 {
 	"value":6591,
 	"label":"NOM_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true
 },
 {
 	"value":6592,
@@ -8117,12 +8225,12 @@ const gruppen =
 {
 	"value":6601,
 	"label":"SHG_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true
 },
 {
 	"value":6602,
@@ -8639,12 +8747,13 @@ const gruppen =
 {
 	"value":7401,
 	"label":"IdF_Anruf",
-	"RTH":"X",
-	"nPol":"X",
-	"THW":"X",
-	"Pol":"X",
-	"Kreisweit":"X",
-	"Landesweit":"X"
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"POL Kurzwahl":9651
 },
 {
 	"value":7402,
@@ -8654,7 +8763,8 @@ const gruppen =
 	"THW":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"POL Kurzwahl":9652
 },
 {
 	"value":7403,
