@@ -8961,7 +8961,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8002,
@@ -8971,7 +8972,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8003,
@@ -8981,7 +8983,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8004,
@@ -8991,7 +8994,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8005,
@@ -9001,7 +9005,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8006,
@@ -9011,7 +9016,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8007,
@@ -9021,7 +9027,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8008,
@@ -9031,7 +9038,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8009,
@@ -9041,7 +9049,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8010,
@@ -9051,7 +9060,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8011,
@@ -9061,7 +9071,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8012,
@@ -9071,7 +9082,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8013,
@@ -9081,7 +9093,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8014,
@@ -9091,7 +9104,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8015,
@@ -9101,7 +9115,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8016,
@@ -9111,7 +9126,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8017,
@@ -9121,7 +9137,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8018,
@@ -9131,7 +9148,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8019,
@@ -9141,7 +9159,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8020,
@@ -9151,7 +9170,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8021,
@@ -9161,7 +9181,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8022,
@@ -9171,7 +9192,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8023,
@@ -9181,7 +9203,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8024,
@@ -9191,7 +9214,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8025,
@@ -9201,7 +9225,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8026,
@@ -9211,7 +9236,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8027,
@@ -9221,7 +9247,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8028,
@@ -9231,7 +9258,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8029,
@@ -9241,7 +9269,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8030,
@@ -9251,7 +9280,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8031,
@@ -9261,7 +9291,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8032,
@@ -9271,7 +9302,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8033,
@@ -9281,7 +9313,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8034,
@@ -9291,7 +9324,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8035,
@@ -9301,7 +9335,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8036,
@@ -9311,7 +9346,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8037,
@@ -9321,7 +9357,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8038,
@@ -9331,7 +9368,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8039,
@@ -9341,7 +9379,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8040,
@@ -9351,7 +9390,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8041,
@@ -9361,7 +9401,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8042,
@@ -9371,7 +9412,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8043,
@@ -9381,7 +9423,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8044,
@@ -9391,7 +9434,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8045,
@@ -9401,7 +9445,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8046,
@@ -9411,7 +9456,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8047,
@@ -9421,7 +9467,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8048,
@@ -9431,7 +9478,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8049,
@@ -9441,7 +9489,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8050,
@@ -9451,7 +9500,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8051,
@@ -9461,7 +9511,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8052,
@@ -9471,7 +9522,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8053,
@@ -9481,7 +9533,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8054,
@@ -9491,7 +9544,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8055,
@@ -9501,7 +9555,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8056,
@@ -9511,7 +9566,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8057,
@@ -9521,7 +9577,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8058,
@@ -9531,7 +9588,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8059,
@@ -9541,7 +9599,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8060,
@@ -9551,7 +9610,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8061,
@@ -9561,7 +9621,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8062,
@@ -9571,7 +9632,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8063,
@@ -9581,7 +9643,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8064,
@@ -9591,7 +9654,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8065,
@@ -9601,7 +9665,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8066,
@@ -9611,7 +9676,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8067,
@@ -9621,7 +9687,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8068,
@@ -9631,7 +9698,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8069,
@@ -9641,7 +9709,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8070,
@@ -9651,7 +9720,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8071,
@@ -9661,7 +9731,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8072,
@@ -9671,7 +9742,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8073,
@@ -9681,7 +9753,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8074,
@@ -9691,7 +9764,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8075,
@@ -9701,7 +9775,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8076,
@@ -9711,7 +9786,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8077,
@@ -9721,7 +9797,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8078,
@@ -9731,7 +9808,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8079,
@@ -9741,7 +9819,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8080,
@@ -9751,7 +9830,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8081,
@@ -9761,7 +9841,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8082,
@@ -9771,7 +9852,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8083,
@@ -9781,7 +9863,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8084,
@@ -9791,7 +9874,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8085,
@@ -9801,7 +9885,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8086,
@@ -9811,7 +9896,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8087,
@@ -9821,7 +9907,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8088,
@@ -9831,7 +9918,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8089,
@@ -9841,7 +9929,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8090,
@@ -9851,7 +9940,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8091,
@@ -9861,7 +9951,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8092,
@@ -9871,7 +9962,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8093,
@@ -9881,7 +9973,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8094,
@@ -9891,7 +9984,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8095,
@@ -9901,7 +9995,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8096,
@@ -9911,7 +10006,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8097,
@@ -9921,7 +10017,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8098,
@@ -9931,7 +10028,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8099,
@@ -9941,7 +10039,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8100,
@@ -9951,7 +10050,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8101,
@@ -9961,7 +10061,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8102,
@@ -9971,7 +10072,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8103,
@@ -9981,7 +10083,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8104,
@@ -9991,7 +10094,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8105,
@@ -10001,7 +10105,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8106,
@@ -10011,7 +10116,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8107,
@@ -10021,7 +10127,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8108,
@@ -10031,7 +10138,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8109,
@@ -10041,7 +10149,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8110,
@@ -10051,7 +10160,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8111,
@@ -10061,7 +10171,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8112,
@@ -10071,7 +10182,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8113,
@@ -10081,7 +10193,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8114,
@@ -10091,7 +10204,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8115,
@@ -10101,7 +10215,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8116,
@@ -10111,7 +10226,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8117,
@@ -10121,7 +10237,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8118,
@@ -10131,7 +10248,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8119,
@@ -10141,7 +10259,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8120,
@@ -10151,7 +10270,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8121,
@@ -10161,7 +10281,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8122,
@@ -10171,7 +10292,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8123,
@@ -10181,7 +10303,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8124,
@@ -10191,7 +10314,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8125,
@@ -10201,7 +10325,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8126,
@@ -10211,7 +10336,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8127,
@@ -10221,7 +10347,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8128,
@@ -10231,7 +10358,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8129,
@@ -10241,7 +10369,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8130,
@@ -10251,7 +10380,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8131,
@@ -10261,7 +10391,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8132,
@@ -10271,7 +10402,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8133,
@@ -10281,7 +10413,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8134,
@@ -10291,7 +10424,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8135,
@@ -10301,7 +10435,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8136,
@@ -10311,7 +10446,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8137,
@@ -10321,7 +10457,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8138,
@@ -10331,7 +10468,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8139,
@@ -10341,7 +10479,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8140,
@@ -10351,7 +10490,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8141,
@@ -10361,7 +10501,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8142,
@@ -10371,7 +10512,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8143,
@@ -10381,7 +10523,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8144,
@@ -10391,7 +10534,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8145,
@@ -10401,7 +10545,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8146,
@@ -10411,7 +10556,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8147,
@@ -10421,7 +10567,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8148,
@@ -10431,7 +10578,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8149,
@@ -10441,7 +10589,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8150,
@@ -10451,7 +10600,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8151,
@@ -10461,7 +10611,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8152,
@@ -10471,7 +10622,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8153,
@@ -10481,7 +10633,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8154,
@@ -10491,7 +10644,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8155,
@@ -10501,7 +10655,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8156,
@@ -10511,7 +10666,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8157,
@@ -10521,7 +10677,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8158,
@@ -10531,7 +10688,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8159,
@@ -10541,7 +10699,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8160,
@@ -10551,7 +10710,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8161,
@@ -10561,7 +10721,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8162,
@@ -10571,7 +10732,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8163,
@@ -10581,7 +10743,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8164,
@@ -10591,7 +10754,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8165,
@@ -10601,7 +10765,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8166,
@@ -10611,7 +10776,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8167,
@@ -10621,7 +10787,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8168,
@@ -10631,7 +10798,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8169,
@@ -10641,7 +10809,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8170,
@@ -10651,7 +10820,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8171,
@@ -10661,7 +10831,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8172,
@@ -10671,7 +10842,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8173,
@@ -10681,7 +10853,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8174,
@@ -10691,7 +10864,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8175,
@@ -10701,7 +10875,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8176,
@@ -10711,7 +10886,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8177,
@@ -10721,7 +10897,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8178,
@@ -10731,7 +10908,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8179,
@@ -10741,7 +10919,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8180,
@@ -10751,7 +10930,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8181,
@@ -10761,7 +10941,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8182,
@@ -10771,7 +10952,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8183,
@@ -10781,7 +10963,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8184,
@@ -10791,7 +10974,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8185,
@@ -11085,7 +11269,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8257,
@@ -11095,7 +11280,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8258,
@@ -11105,7 +11291,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8259,
@@ -11115,7 +11302,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8260,
@@ -11125,7 +11313,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8261,
@@ -11135,7 +11324,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8262,
@@ -11145,7 +11335,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8263,
@@ -11155,7 +11346,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8264,
@@ -11165,7 +11357,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8265,
@@ -11316,7 +11509,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8302,
@@ -11327,7 +11521,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8303,
@@ -11338,7 +11533,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8304,
@@ -11349,7 +11545,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8305,
@@ -11360,7 +11557,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8306,
@@ -11371,7 +11569,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8307,
@@ -11382,7 +11581,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8308,
@@ -11393,7 +11593,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8309,
@@ -11404,7 +11605,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8310,
@@ -11415,7 +11617,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8311,
@@ -11426,7 +11629,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8312,
@@ -11437,7 +11641,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8313,
@@ -11448,7 +11653,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8314,
@@ -11459,7 +11665,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8315,
@@ -11470,7 +11677,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8316,
@@ -11481,7 +11689,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8317,
@@ -11492,7 +11701,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8318,
@@ -11503,7 +11713,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8319,
@@ -11514,7 +11725,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8320,
@@ -11525,7 +11737,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8321,
@@ -11536,7 +11749,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8322,
@@ -11547,7 +11761,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8323,
@@ -11558,7 +11773,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8324,
@@ -11569,7 +11785,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8325,
@@ -11580,7 +11797,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8326,
@@ -11591,7 +11809,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8327,
@@ -11602,7 +11821,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8328,
@@ -11613,7 +11833,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8329,
@@ -11624,7 +11845,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8330,
@@ -11635,7 +11857,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8331,
@@ -11646,7 +11869,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8332,
@@ -11657,7 +11881,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8333,
@@ -11668,7 +11893,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8334,
@@ -11679,7 +11905,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8335,
@@ -11690,7 +11917,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8336,
@@ -11701,7 +11929,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8337,
@@ -11712,7 +11941,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8338,
@@ -11723,7 +11953,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8339,
@@ -11734,7 +11965,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8340,
@@ -11745,7 +11977,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8341,
@@ -11756,7 +11989,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8342,
@@ -11767,7 +12001,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8343,
@@ -11778,7 +12013,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8344,
@@ -11789,7 +12025,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8345,
@@ -11800,7 +12037,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8346,
@@ -11811,7 +12049,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8347,
@@ -11822,7 +12061,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8348,
@@ -11833,7 +12073,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8349,
@@ -11844,7 +12085,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8350,
@@ -11855,7 +12097,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8351,
@@ -11866,7 +12109,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8352,
@@ -11877,7 +12121,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8353,
@@ -11888,7 +12133,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8354,
@@ -11899,7 +12145,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8355,
@@ -11910,7 +12157,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8356,
@@ -11921,7 +12169,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8357,
@@ -11932,7 +12181,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8358,
@@ -11943,7 +12193,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8359,
@@ -11954,7 +12205,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8360,
@@ -11965,7 +12217,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8400,
@@ -12007,7 +12260,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8601,
@@ -12017,7 +12271,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8602,
@@ -12027,7 +12282,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8603,
@@ -12037,7 +12293,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8604,
@@ -12047,7 +12304,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8605,
@@ -12057,7 +12315,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8606,
@@ -12067,7 +12326,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8607,
@@ -12077,7 +12337,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8608,
@@ -12087,7 +12348,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8609,
@@ -12097,7 +12359,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8610,
@@ -12107,7 +12370,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8611,
@@ -12117,7 +12381,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8612,
@@ -12127,7 +12392,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8613,
@@ -12137,7 +12403,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8614,
@@ -12147,7 +12414,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8615,
@@ -12157,7 +12425,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8616,
@@ -12167,7 +12436,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8617,
@@ -12177,7 +12447,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8618,
@@ -12187,7 +12458,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8619,
@@ -12197,7 +12469,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8620,
@@ -12207,7 +12480,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8621,
@@ -12217,7 +12491,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8622,
@@ -12227,7 +12502,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8623,
@@ -12237,7 +12513,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8624,
@@ -12247,7 +12524,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8625,
@@ -12257,7 +12535,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8626,
@@ -12267,7 +12546,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8627,
@@ -12277,7 +12557,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8628,
@@ -12287,7 +12568,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8629,
@@ -12297,7 +12579,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8630,
@@ -12307,7 +12590,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8631,
@@ -12317,7 +12601,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8632,
@@ -12327,7 +12612,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8633,
@@ -12337,7 +12623,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8634,
@@ -12347,7 +12634,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8635,
@@ -12357,7 +12645,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8636,
@@ -12367,7 +12656,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8637,
@@ -12377,7 +12667,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8638,
@@ -12387,7 +12678,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8639,
@@ -12397,7 +12689,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8640,
@@ -12407,7 +12700,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8641,
@@ -12417,7 +12711,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8642,
@@ -12427,7 +12722,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8643,
@@ -12437,7 +12733,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8644,
@@ -12447,7 +12744,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8645,
@@ -12457,7 +12755,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8646,
@@ -12467,7 +12766,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8647,
@@ -12477,7 +12777,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8648,
@@ -12487,7 +12788,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8649,
@@ -12497,7 +12799,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8650,
@@ -12507,7 +12810,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8651,
@@ -12517,7 +12821,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8652,
@@ -12527,7 +12832,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8653,
@@ -12537,7 +12843,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8654,
@@ -12547,7 +12854,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8655,
@@ -12557,7 +12865,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8656,
@@ -12567,7 +12876,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8657,
@@ -12577,7 +12887,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8658,
@@ -12587,7 +12898,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8659,
@@ -12597,7 +12909,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8660,
@@ -12607,7 +12920,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8661,
@@ -12617,7 +12931,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8662,
@@ -12627,7 +12942,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8663,
@@ -12637,7 +12953,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8664,
@@ -12647,7 +12964,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8665,
@@ -12657,7 +12975,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8666,
@@ -12667,7 +12986,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8667,
@@ -12677,7 +12997,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8668,
@@ -12687,7 +13008,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8669,
@@ -12697,7 +13019,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8670,
@@ -12707,7 +13030,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8671,
@@ -12717,7 +13041,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8672,
@@ -12727,7 +13052,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8673,
@@ -12737,7 +13063,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8674,
@@ -12747,7 +13074,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8675,
@@ -12757,7 +13085,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8676,
@@ -12767,7 +13096,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8677,
@@ -12777,7 +13107,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8678,
@@ -12787,7 +13118,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8679,
@@ -12797,7 +13129,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8680,
@@ -12807,7 +13140,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8681,
@@ -12817,7 +13151,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8682,
@@ -12827,7 +13162,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8683,
@@ -12837,7 +13173,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8684,
@@ -12847,7 +13184,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8685,
@@ -12857,7 +13195,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8686,
@@ -12867,7 +13206,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8687,
@@ -12877,7 +13217,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8688,
@@ -12887,7 +13228,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8689,
@@ -12897,7 +13239,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8690,
@@ -12907,7 +13250,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8691,
@@ -12917,7 +13261,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8692,
@@ -12927,7 +13272,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8693,
@@ -12937,7 +13283,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8694,
@@ -12947,7 +13294,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8695,
@@ -12957,7 +13305,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8696,
@@ -12967,7 +13316,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8697,
@@ -12977,7 +13327,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8698,
@@ -12987,7 +13338,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8699,
@@ -12997,7 +13349,8 @@ const gruppen =
 	"Pol":true,
 	"Kreisweit":true,
 	"Landesweit":true,
-	"Bundesweit":true
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8451,
@@ -13077,7 +13430,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9702,
@@ -13085,7 +13439,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9703,
@@ -13093,7 +13448,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9704,
@@ -13101,7 +13457,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9705,
@@ -13109,7 +13466,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9706,
@@ -13117,7 +13475,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9707,
@@ -13125,7 +13484,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9708,
@@ -13133,7 +13493,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9709,
@@ -13141,7 +13502,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9710,
@@ -13149,7 +13511,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9711,
@@ -13157,7 +13520,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9712,
@@ -13165,7 +13529,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9713,
@@ -13173,7 +13538,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9714,
@@ -13181,7 +13547,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9715,
@@ -13189,7 +13556,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9716,
@@ -13197,7 +13565,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9717,
@@ -13205,7 +13574,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9718,
@@ -13213,7 +13583,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9719,
@@ -13221,7 +13592,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9720,
@@ -13229,7 +13601,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9721,
@@ -13237,7 +13610,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9722,
@@ -13245,7 +13619,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9723,
@@ -13253,7 +13628,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9724,
@@ -13261,7 +13637,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9725,
@@ -13269,7 +13646,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9726,
@@ -13277,7 +13655,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9727,
@@ -13285,7 +13664,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9728,
@@ -13293,7 +13673,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9729,
@@ -13301,7 +13682,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9730,
@@ -13309,7 +13691,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9731,
@@ -13317,7 +13700,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9732,
@@ -13325,7 +13709,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9733,
@@ -13333,7 +13718,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9734,
@@ -13341,7 +13727,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9735,
@@ -13349,7 +13736,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9736,
@@ -13357,7 +13745,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9737,
@@ -13365,7 +13754,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9738,
@@ -13373,7 +13763,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9739,
@@ -13381,7 +13772,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9740,
@@ -13389,7 +13781,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9741,
@@ -13397,7 +13790,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9742,
@@ -13405,7 +13799,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9743,
@@ -13413,7 +13808,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9744,
@@ -13421,7 +13817,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9745,
@@ -13429,7 +13826,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9746,
@@ -13437,7 +13835,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9747,
@@ -13445,7 +13844,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9748,
@@ -13453,7 +13853,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9749,
@@ -13461,7 +13862,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9750,
@@ -13469,7 +13871,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9751,
@@ -13477,7 +13880,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9752,
@@ -13485,7 +13889,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9753,
@@ -13493,7 +13898,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9754,
@@ -13557,7 +13963,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9802,
@@ -13565,7 +13972,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9803,
@@ -13573,7 +13981,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9804,
@@ -13581,7 +13990,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9805,
@@ -13589,7 +13999,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9806,
@@ -13597,7 +14008,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9807,
@@ -13605,7 +14017,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9808,
@@ -13613,7 +14026,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9809,
@@ -13621,7 +14035,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9810,
@@ -13629,7 +14044,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9811,
@@ -13637,7 +14053,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9812,
@@ -13645,7 +14062,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9813,
@@ -13653,7 +14071,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9814,
@@ -13661,7 +14080,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9815,
@@ -13669,7 +14089,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9816,
@@ -13677,7 +14098,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9817,
@@ -13685,7 +14107,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9818,
@@ -13693,7 +14116,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9819,
@@ -13701,7 +14125,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9820,
@@ -13709,7 +14134,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9821,
@@ -13717,7 +14143,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9822,
@@ -13725,7 +14152,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9823,
@@ -13733,7 +14161,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9824,
@@ -13741,7 +14170,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9825,
@@ -13749,7 +14179,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9826,
@@ -13757,7 +14188,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9827,
@@ -13765,7 +14197,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9828,
@@ -13773,7 +14206,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9829,
@@ -13781,7 +14215,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9830,
@@ -13789,7 +14224,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9831,
@@ -13797,7 +14233,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9832,
@@ -13805,7 +14242,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9833,
@@ -13813,7 +14251,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9834,
@@ -13821,7 +14260,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9835,
@@ -13829,7 +14269,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9836,
@@ -13837,7 +14278,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9837,
@@ -13845,7 +14287,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9838,
@@ -13853,7 +14296,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9839,
@@ -13861,7 +14305,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9840,
@@ -13869,7 +14314,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9841,
@@ -13877,7 +14323,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9842,
@@ -13885,7 +14332,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9843,
@@ -13893,7 +14341,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9844,
@@ -13901,7 +14350,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9845,
@@ -13909,7 +14359,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9846,
@@ -13917,7 +14368,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9847,
@@ -13925,7 +14377,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9848,
@@ -13933,7 +14386,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9849,
@@ -13941,7 +14395,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9850,
@@ -13949,7 +14404,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9851,
@@ -13957,7 +14413,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9852,
@@ -13965,7 +14422,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9853,
@@ -13973,7 +14431,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9854,
@@ -13981,7 +14440,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9855,
@@ -13989,7 +14449,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9856,
@@ -13997,7 +14458,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9857,
@@ -14005,7 +14467,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9858,
@@ -14013,7 +14476,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9859,
@@ -14021,7 +14485,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9860,
@@ -14029,7 +14494,8 @@ const gruppen =
 	"nPol":true,
 	"Pol":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9861,

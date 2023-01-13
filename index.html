@@ -44,6 +44,8 @@ if ('serviceWorker' in navigator) {
 	<div class="table">
 		<label class="cell" for="gruppen">Gruppe:</label>
 		<input class="cell" id="gruppen" autofocus tabindex="1" name="gruppen">
+		<label class="cell" for="zusatztext" style="display:none">Zusatz:</label>
+		<input class="cell" id="zusatztext" readonly="readonly" style="display:none; text-align: center; border-color: red">
 		<label class="cell" for="wert">Kurzwahl:</label>
 		<input class="cell" id="wert" readonly="readonly">
 
@@ -101,14 +103,20 @@ if ('serviceWorker' in navigator) {
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.20">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v2.20</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.30">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v2.30</p>
 	</footer>
 	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
 </body>
 <script>
 $(".share-button").button()
 $(".add-button").button()
+const zusatzMapping= {
+		"text_adhoc_bund" : "Für Ad-hoc-Einsatzlagen; Abstimmung mit TTB, Freischaltung für alle BOS möglich",
+		"text_adhoc_land": "Für Ad-hoc-Einsatzlagen; Abstimmung mit TTB",
+		"text_plan_bund" : "Für planbare Einsatzlagen; Abstimmung mit TTB, Freischaltung für alle BOS möglich",
+		"text_plan_land": "Für planbare Einsatzlagen; Abstimmung mit TTB"
+}
 let lastWert;
 $(() => {
 	const gruppenInput = $('#gruppen')
@@ -119,6 +127,8 @@ $(() => {
 		select: (e, ui) => {
 		console.log({ui, e, item: ui.item})
 			$('#wert').val(ui.item.value)
+			const zusatzText = zusatzMapping[ui.item.Zusatztext];
+			$('#zusatztext').val(zusatzText).toggle(!!zusatzText)
 			$('#pol_kw').val(ui.item['POL Kurzwahl']).toggle(!!ui.item['POL Kurzwahl'])
 			$('#pol_kw_label').toggle(!!ui.item['POL Kurzwahl'])
 			gruppenInput.val(ui.item.label)
