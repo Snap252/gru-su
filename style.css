@@ -118,7 +118,19 @@ fieldset {
 	order: 100;
 }
 
+@keyframes blink { 
+	50% {
+		border-color: blue;
+	} 
+}
+.blink_border {
+	animation: blink 1s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: step-end;
+}
+
 .version:after {
-	content: '   - css_V_2.31';
+	content: '   - css_V_2.32';
 	font-size: 80%;
 }
