@@ -15,7 +15,7 @@
 // Register service worker to control making site work offline
 if ('serviceWorker' in navigator) {
 	navigator.serviceWorker
-		.register('sw.js?v=2_32')
+		.register('sw.js?v=2_33')
 		.then(e => console.log({msg: 'Service Worker Registered ', event: e}));
 }
 	</script>
@@ -103,8 +103,8 @@ if ('serviceWorker' in navigator) {
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.32">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v2.32</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V22%20-%20v2.33">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v2.33</p>
 	</footer>
 	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
 </body>
@@ -112,10 +112,10 @@ if ('serviceWorker' in navigator) {
 $(".share-button").button()
 $(".add-button").button()
 const zusatzMapping= {
-		"text_adhoc_bund" : "Für Ad-hoc-Einsatzlagen;\n Abstimmung mit TTB,\n Freischaltung für alle BOS möglich",
-		"text_adhoc_land": "Für Ad-hoc-Einsatzlagen;\n Abstimmung mit TTB",
-		"text_plan_bund" : "Für planbare Einsatzlagen; Abstimmung mit TTB, Freischaltung für alle BOS möglich",
-		"text_plan_land": "Für planbare Einsatzlagen;\n Abstimmung mit TTB"
+		"text_adhoc_bund" : "<div>Für Ad-hoc-Einsatzlagen;</div><div>Abstimmung mit TTB,</div><div>Freischaltung für alle BOS möglich</div>",
+		"text_adhoc_land": "<div>Für Ad-hoc-Einsatzlagen;</div><div>Abstimmung mit TTB</div>",
+		"text_plan_bund" : "<div>Für planbare Einsatzlagen;</div><div>Abstimmung mit TTB,</div><div>Freischaltung für alle BOS möglich</div>",
+		"text_plan_land": "<div>Für planbare Einsatzlagen;</div><div>Abstimmung mit TTB</div>"
 }
 let lastWert;
 $(() => {
@@ -129,7 +129,7 @@ $(() => {
 			$('#wert').val(ui.item.value)
 			const zusatzText = zusatzMapping[ui.item.Zusatztext];
 			$('#zusatztext_label').toggle(!!zusatzText)
-			$('#zusatztext').text(zusatzText).toggle(!!zusatzText)
+			$('#zusatztext').append($(zusatzText)).toggle(!!zusatzText)
 			$('#pol_kw').val(ui.item['POL Kurzwahl']).toggle(!!ui.item['POL Kurzwahl'])
 			$('#pol_kw_label').toggle(!!ui.item['POL Kurzwahl'])
 			gruppenInput.val(ui.item.label)

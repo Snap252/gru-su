@@ -40,6 +40,11 @@ label, .input, input, .share-button {
 	font-size: 1.25rem;
 }
 
+div.input > div {
+	display: inline-block;
+	padding: 0px .1em;
+}
+
 cite:before, cite:after {
 	content: '"';
 }
@@ -131,6 +136,6 @@ fieldset {
 }
 
 .version:after {
-	content: '   - css_V_2.32';
+	content: '   - css_V_2.33';
 	font-size: 80%;
 }
