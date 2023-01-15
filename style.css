@@ -32,11 +32,11 @@ h5, h6 {
 	grid-column: 1/2;
 }
 
-.table input, .table button {
+.table .input, .table input, .table button {
 	grid-column: 2/3;
 }
 
-label, input, .share-button {
+label, .input, input, .share-button {
 	font-size: 1.25rem;
 }
 
@@ -119,6 +119,6 @@ fieldset {
 }
 
 .version:after {
-	content: '   - css_V_2.30';
+	content: '   - css_V_2.31';
 	font-size: 80%;
 }

@@ -1,4 +1,5 @@
 const gruppen_version = "V22";
+const gruppen_version_intern = "V22_3";
 const gruppen =
 // cut here!!! 
 // use https://csvjson.com/csv2json
