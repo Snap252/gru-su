@@ -127,7 +127,7 @@ fieldset {
 
 @keyframes blink { 
 	50% {
-		border-color: #f009;
+		border-color: #f007;
 	} 
 }
 .blink_border {
@@ -138,6 +138,6 @@ fieldset {
 }
 
 .version:after {
-	content: '   - css_V_2.34';
+	content: '   - css_V_2.35';
 	font-size: 80%;
 }
