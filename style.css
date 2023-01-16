@@ -24,7 +24,7 @@ h5, h6 {
 
 .table {
 	display: grid;
-	grid-template-columns: 85px 1fr;
+	grid-template-columns: auto 1fr;
 	grid-gap: 16px;
 }
 
@@ -105,14 +105,16 @@ fieldset {
 	);
 }
 #Landesweit {
-	background-image: linear-gradient(  -225deg,
+	background-image: linear-gradient(
+		-225deg,
 		#00923377 33%,
 		#FFFFFF77 33%, #FFFFFF77 66%,
 		#E4001477 66%
 	);
 }
 #Bundesweit {
-	background-image: linear-gradient(  -225deg,
+	background-image: linear-gradient(
+		-225deg,
 		#0007 33%,
 		#d007 33%, #d007 66%,
 		#fc07 66%
@@ -125,17 +127,17 @@ fieldset {
 
 @keyframes blink { 
 	50% {
-		border-color: blue;
+		border-color: #f009;
 	} 
 }
 .blink_border {
-	animation: blink 1s;
+	animation: blink 2s;
 	animation-iteration-count: infinite;
 	animation-direction: alternate;
-	animation-timing-function: step-end;
+	animation-timing-function: linear;
 }
 
 .version:after {
-	content: '   - css_V_2.33';
+	content: '   - css_V_2.34';
 	font-size: 80%;
 }
