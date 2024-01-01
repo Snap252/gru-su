@@ -1,0 +1,159 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: inherit;
+    margin: 0 20px;
+    /*	background-color: white;*/
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+
+h5, h6 {
+    margin-block: .4em;
+}
+
+.table {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 16px;
+}
+
+.table label {
+    grid-column: 1/2;
+}
+
+.table .input, .table input, .table button {
+    grid-column: 2/3;
+}
+
+label, .input, input, .share-button {
+    font-size: 1.25rem;
+}
+
+div.input > div {
+    display: inline-block;
+    padding: 0 .1em;
+}
+
+cite:before, cite:after {
+    content: '"';
+}
+
+.smaller {
+    font-size: 0.75rem;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-size: .5rem;
+    margin-block: 0.5em;
+}
+
+fieldset {
+    margin: unset;
+    border: none;
+    padding: unset;
+}
+
+#gebiet, #nutzer {
+    display: flex;
+    justify-content: stretch;
+    align-items: stretch;
+    column-gap: 5px;
+}
+
+#nutzer *, #gebiet * {
+    border: 1px solid #777;
+    border-radius: 3px;
+    text-align: center;
+    flex: 1 0 0;
+}
+
+#RTH {
+    background-color: lightgrey;
+}
+
+#nPol {
+    background-image: linear-gradient(
+            90deg,
+            red 0%, red 33%,
+            white 33%, white 66%,
+            orange 66%
+    )
+}
+
+#THW {
+    background-color: lightblue;
+}
+
+#Pol {
+    background-color: green;
+}
+
+#OA {
+    background-color: black;
+    color: white;
+}
+
+#Kreisweit {
+    background-image: linear-gradient(
+            -225deg,
+            #00008077 33%,
+            #DE572877 33%, #DE572877 66%,
+            #4D81BC77 66%
+    );
+}
+
+#Landesweit {
+    background-image: linear-gradient(
+            -225deg,
+            #00923377 33%,
+            #FFFFFF77 33%, #FFFFFF77 66%,
+            #E4001477 66%
+    );
+}
+
+#Bundesweit {
+    background-image: linear-gradient(
+            -225deg,
+            #0007 33%,
+            #d007 33%, #d007 66%,
+            #fc07 66%
+    );
+}
+
+.hidden {
+    visibility: hidden;
+    order: 100;
+}
+
+@keyframes blink {
+    50% {
+        border-color: #f007;
+    }
+}
+
+.blink_border {
+    animation: blink 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+.version:after {
+    content: '   - css_V_3.0';
+    font-size: 80%;
+}
