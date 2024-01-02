@@ -30,8 +30,8 @@
 // Register service worker to control making site work offline
 if ('serviceWorker' in navigator) {
 	navigator.serviceWorker
-		.register('./sw.js?v=3.0')
-		.then(e => console.log({msg: 'Service Worker Registered ', event: e}));
+		.register('./sw.js?v=3.0.3')
+		.then(event => console.log({msg: 'Service Worker Registered ', event}));
 }
 	</script>
 
@@ -43,7 +43,7 @@ if ('serviceWorker' in navigator) {
 			integrity="sha256-eTyxS0rkjpLEo16uXTS0uVCS4815lc40K2iVpWDvdSY="
 			crossorigin="anonymous"></script>
 
-	<script src="./gruppen.js?v=3.0"></script>
+	<script src="./gruppen.js?v=3.0" defer></script>
 	<script src="./index.js" defer></script>
 	<link href="./style.css" rel="stylesheet">
 
@@ -51,21 +51,24 @@ if ('serviceWorker' in navigator) {
 
 </head>
 <body>
-	<div>
-		<img style="display:block; width: 320px; height: initial; margin-left: auto; margin-right: auto;" alt="Logo - Ennepe-Ruhr-Kreis" src="./images/logo.svg" width="71" height="78" />
-		<h1 style="font-family: sans-serif">IuK<br/>Ennepe-Ruhr-Kreis</h1>
-	</div>
-	<hr/>
+	<h1 style="margin: 10px 0;">
+		<img
+				style="width: 2rem;height: initial;vertical-align: bottom;margin-right: 5px;"
+				alt="Logo - Ennepe-Ruhr-Kreis"
+				src="./images/logo.svg" width="71" height="78">IuK Ennepe-Ruhr-Kreis
+	</h1>
+	<hr style="display: none"/>
 	<h5>Suchfunktion Rufgruppen Fleetmapping NRW <span id="gruppen_version_span">V23</span></h5>
-	<div class="table">
+	<hr/>
+	<div class="table" style="margin: 2rem 0">
 		<label class="cell" for="gruppen">Gruppe:</label>
-		<input class="cell" id="gruppen" autofocus tabindex="0" name="gruppen">
+		<input class="cell" id="gruppen" autofocus tabindex="0" name="gruppen" size="1">
 		<label class="cell" for="zusatztext" id="zusatztext_label" style="display:none">⚠ Hinweis:</label>
 		<div class="cell input blink_border" id="zusatztext" readonly="readonly" style="display:none; text-align: center; border: 3px solid red"></div>
 		<label class="cell" for="wert">Kurzwahl:</label>
-		<input class="cell" id="wert" readonly="readonly">
+		<input class="cell" id="wert" readonly="readonly" size="1">
 
-		<label class="cell" for="pol_kw" id="pol_kw_label"style="display: none">POL KW:</label>
+		<label class="cell" for="pol_kw" id="pol_kw_label" style="display: none">POL KW:</label>
 		<input class="cell" id="pol_kw" readonly="readonly" style="display: none">
 	
 		<label class="cell needs_selection nutzer" for="nutzer" style="display: none">Nutzer:</label>
@@ -93,12 +96,11 @@ if ('serviceWorker' in navigator) {
 				</svg>
 			Teilen
 		</button>
-		<br/>
 	</div>
 	<hr/>
 	<br/>
 	<div style="display: flex;" class="smaller">
-		<div style="flex-grow: 1">
+		<div style="flex: 1 1 1px">
 			<label for="motorola"><input type="radio" id="motorola" name="funke" value="motorola" checked>Motorola</label>
 			<ul class="smaller">
 				<li>Betriebsart auswählen (<cite>DMO</cite>/<cite>TMO</cite>)</li>
@@ -106,7 +108,7 @@ if ('serviceWorker' in navigator) {
 				<li><cite>Anlage</cite> auswählen</li>
 			</ul>
 		</div>
-		<div style="flex-grow: 1">
+		<div style="flex: 1 1 1px">
 			<label for="sepura"><input type="radio" id="sepura" name="funke" value="sepura">Sepura</label>
 			<ul>
 				<li>Modustaste drücken</li>
@@ -123,7 +125,7 @@ if ('serviceWorker' in navigator) {
 		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V23%20-%20v3.0">m.schmidt@leitstelle-en.de</a></p>
 		<p class="version">v3.0</p>
 	</footer>
-	<button class="add-button">Zum Startbildschirm hinzufügen</button><br/>
+	<button class="add-button" style="display: none">Zum Startbildschirm hinzufügen</button><br/>
 </body>
 <script>
 /**
@@ -142,7 +144,7 @@ $(() => {
 	const gruppenInput = $('#gruppen')
 	gruppenInput.autocomplete({
 		source: gruppen,
-		minLength:0,
+		minLength: 0,
 		autoFocus: true,
 		select(e, ui) {
 			/**

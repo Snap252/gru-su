@@ -1,6 +1,3 @@
-// Code to handle install prompt on desktop
-const addBtn = $('.add-button').css("display", "none");
-
 /**
  * @typedef {Event} BeforeInstallPromptEvent
  * @property {() => void} prompt - The prompt() method of the BeforeInstallPromptEvent interface allows a developer to show the "install prompt" at a time of their own choosing. Typically, this will be called in the event handler for the app's custom install UI.
@@ -13,6 +10,8 @@ window.addEventListener('beforeinstallprompt',
      * @param {BeforeInstallPromptEvent} e
      */
     function (e) {
+        const addBtn = $('.add-button');
+
         // Prevent Chrome 67 and earlier from automatically showing the prompt
         e.preventDefault();
         // Stash the event so it can be triggered later.

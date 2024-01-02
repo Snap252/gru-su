@@ -1,4 +1,4 @@
-const version = 'gru-su-3.0.6';
+const version = 'gru-su-3.0.22';
 const coreID = version + '_core';
 
 self.addEventListener('activate',
@@ -25,18 +25,17 @@ self.addEventListener('install',
      * @param {ExtendableEvent} event
      */
     event => {
-        self.skipWaiting();
         event.waitUntil(
             caches.open(coreID).then(cache => cache.addAll([
-//			'index.js',
-//			'style.css',
+                'index.js',
+                'style.css',
                 'images/logo.svg',
-//			'gruppen.js',
-//			'manifest/manifest.webmanifest',
+                'gruppen.js',
+                'manifest/manifest.webmanifest',
                 'https://code.jquery.com/jquery-3.6.0.min.js',
                 'https://code.jquery.com/ui/1.13.1/jquery-ui.min.js',
                 'https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css'
-            ]))
+            ])).then(() => self.skipWaiting())
         )
         console.log({event: event, version: version})
     })

@@ -157,3 +157,11 @@ fieldset {
     content: '   - css_V_3.0';
     font-size: 80%;
 }
+
+li {
+    margin: 4px 0;
+}
+
+ul {
+    padding-inline-start: 20px
+}

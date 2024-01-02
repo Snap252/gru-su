@@ -5,6 +5,7 @@
   "start_url": "../index.html",
   "name": "BOS Gruppensuche NRW",
   "short_name": "GruSuNRW",
+  "lang": "de",
   "icons": [
     {
       "src": "../icons/windows11/SmallTile.scale-100.png",
