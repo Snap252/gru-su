@@ -1,4 +1,4 @@
-const version = 'gru-su-3.0.22';
+const version = 'gru-su-3.2.0';
 const coreID = version + '_core';
 
 self.addEventListener('activate',

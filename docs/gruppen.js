@@ -1,5 +1,5 @@
 const gruppen_version = "V23";
-const gruppen_version_intern = "V23_1";
+const gruppen_version_intern = "V23_2";
 /**
  * @typedef {Object} Gruppe
  * @property {number} value
@@ -996,7 +996,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9586
 },
 {
 	"value":1203,
@@ -1189,7 +1190,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9619
 },
 {
 	"value":1303,
@@ -1369,7 +1371,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9588
 },
 {
 	"value":7203,
@@ -1383,7 +1386,8 @@ const gruppen = // cut here!!!
 	"label":"BM_BOS",
 	"nPol":true,
 	"THW":true,
-	"Kreisweit":true
+	"Kreisweit":true,
+	"PolKW":9589
 },
 {
 	"value":1403,
@@ -1510,7 +1514,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9591
 },
 {
 	"value":7204,
@@ -1528,7 +1533,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9640
 },
 {
 	"value":1503,
@@ -1665,7 +1671,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9546
 },
 {
 	"value":7205,
@@ -1683,7 +1690,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9547
 },
 {
 	"value":1603,
@@ -1883,7 +1891,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9639
 },
 {
 	"value":7206,
@@ -1901,7 +1910,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9640
 },
 {
 	"value":1703,
@@ -2024,7 +2034,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9624
 },
 {
 	"value":1802,
@@ -2035,7 +2046,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9643
 },
 {
 	"value":1803,
@@ -2231,7 +2243,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9645
 },
 {
 	"value":7207,
@@ -2249,7 +2262,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9646
 },
 {
 	"value":1903,
@@ -2427,7 +2441,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9501
 },
 {
 	"value":7208,
@@ -2445,7 +2460,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9502
 },
 {
 	"value":2003,
@@ -2690,7 +2706,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9594
 },
 {
 	"value":7209,
@@ -2708,7 +2725,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9595
 },
 {
 	"value":2103,
@@ -2860,7 +2878,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9549
 },
 {
 	"value":7210,
@@ -2878,7 +2897,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9550
 },
 {
 	"value":2203,
@@ -3062,7 +3082,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9504
 },
 {
 	"value":7211,
@@ -3080,7 +3101,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9505
 },
 {
 	"value":2303,
@@ -3225,7 +3247,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9507
 },
 {
 	"value":7212,
@@ -3243,7 +3266,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9508
 },
 {
 	"value":2403,
@@ -3395,7 +3419,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9597
 },
 {
 	"value":7213,
@@ -3413,7 +3438,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9553
 },
 {
 	"value":2503,
@@ -3557,7 +3583,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9597
 },
 {
 	"value":7214,
@@ -3575,7 +3602,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9598
 },
 {
 	"value":2603,
@@ -3876,7 +3904,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9648
 },
 {
 	"value":7215,
@@ -3894,7 +3923,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9649
 },
 {
 	"value":2703,
@@ -4031,7 +4061,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9600
 },
 {
 	"value":7216,
@@ -4049,7 +4080,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9601
 },
 {
 	"value":2803,
@@ -4207,7 +4239,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9603
 },
 {
 	"value":7217,
@@ -4225,7 +4258,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9604
 },
 {
 	"value":2903,
@@ -4425,7 +4459,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9621
 },
 {
 	"value":7218,
@@ -4443,7 +4478,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9622
 },
 {
 	"value":3003,
@@ -4587,7 +4623,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9555
 },
 {
 	"value":7219,
@@ -4605,7 +4642,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9556
 },
 {
 	"value":3103,
@@ -4728,7 +4766,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9558
 },
 {
 	"value":7220,
@@ -4746,7 +4785,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9559
 },
 {
 	"value":3203,
@@ -4895,7 +4935,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9561
 },
 {
 	"value":3302,
@@ -4906,7 +4947,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9562
 },
 {
 	"value":3303,
@@ -5036,7 +5078,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9624
 },
 {
 	"value":7221,
@@ -5054,7 +5097,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9625
 },
 {
 	"value":3403,
@@ -5213,7 +5257,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9606
 },
 {
 	"value":7222,
@@ -5231,7 +5276,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9607
 },
 {
 	"value":3503,
@@ -5382,7 +5428,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9564
 },
 {
 	"value":7223,
@@ -5400,7 +5447,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9565
 },
 {
 	"value":3603,
@@ -5537,7 +5585,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9627
 },
 {
 	"value":7224,
@@ -5555,7 +5604,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9628
 },
 {
 	"value":3703,
@@ -5802,7 +5852,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9651
 },
 {
 	"value":7402,
@@ -5813,7 +5864,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9652
 },
 {
 	"value":7403,
@@ -6041,7 +6093,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9609
 },
 {
 	"value":7225,
@@ -6059,7 +6112,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9610
 },
 {
 	"value":3803,
@@ -6258,7 +6312,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9510
 },
 {
 	"value":7226,
@@ -6276,7 +6331,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9511
 },
 {
 	"value":3903,
@@ -6413,7 +6469,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9513
 },
 {
 	"value":7227,
@@ -6431,7 +6488,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9514
 },
 {
 	"value":4003,
@@ -6621,7 +6679,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9612
 },
 {
 	"value":4102,
@@ -6632,7 +6691,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9613
 },
 {
 	"value":4103,
@@ -6811,7 +6871,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9630
 },
 {
 	"value":7228,
@@ -6829,7 +6890,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9631
 },
 {
 	"value":4203,
@@ -6980,7 +7042,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9516
 },
 {
 	"value":7230,
@@ -6998,7 +7061,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9517
 },
 {
 	"value":4303,
@@ -7128,7 +7192,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9519
 },
 {
 	"value":7231,
@@ -7146,7 +7211,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9520
 },
 {
 	"value":4403,
@@ -7269,7 +7335,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9522
 },
 {
 	"value":4502,
@@ -7280,7 +7347,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9523
 },
 {
 	"value":4503,
@@ -7450,7 +7518,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9633
 },
 {
 	"value":4602,
@@ -7461,7 +7530,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9634
 },
 {
 	"value":4603,
@@ -7662,7 +7732,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9567
 },
 {
 	"value":7233,
@@ -7680,7 +7751,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9568
 },
 {
 	"value":4703,
@@ -7844,7 +7916,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9564
 },
 {
 	"value":7234,
@@ -7862,7 +7935,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9655
 },
 {
 	"value":4803,
@@ -8021,7 +8095,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9525
 },
 {
 	"value":7235,
@@ -8039,7 +8114,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9526
 },
 {
 	"value":4903,
@@ -8138,483 +8214,1083 @@ const gruppen = // cut here!!!
 },
 {
 	"value":9701,
-	"label":"NRW_RTZ_01"
+	"label":"NRW_RTZ_01",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9702,
-	"label":"NRW_RTZ_02"
+	"label":"NRW_RTZ_02",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9703,
-	"label":"NRW_RTZ_03"
+	"label":"NRW_RTZ_03",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9704,
-	"label":"NRW_RTZ_04"
+	"label":"NRW_RTZ_04",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9705,
-	"label":"NRW_RTZ_05"
+	"label":"NRW_RTZ_05",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9706,
-	"label":"NRW_RTZ_06"
+	"label":"NRW_RTZ_06",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9707,
-	"label":"NRW_RTZ_07"
+	"label":"NRW_RTZ_07",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9708,
-	"label":"NRW_RTZ_08"
+	"label":"NRW_RTZ_08",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9709,
-	"label":"NRW_RTZ_09"
+	"label":"NRW_RTZ_09",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9710,
-	"label":"NRW_RTZ_10"
+	"label":"NRW_RTZ_10",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9711,
-	"label":"NRW_RTZ_11"
+	"label":"NRW_RTZ_11",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9712,
-	"label":"NRW_RTZ_12"
+	"label":"NRW_RTZ_12",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9713,
-	"label":"NRW_RTZ_13"
+	"label":"NRW_RTZ_13",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9714,
-	"label":"NRW_RTZ_14"
+	"label":"NRW_RTZ_14",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9715,
-	"label":"NRW_RTZ_15"
+	"label":"NRW_RTZ_15",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9716,
-	"label":"NRW_RTZ_16"
+	"label":"NRW_RTZ_16",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9717,
-	"label":"NRW_RTZ_17"
+	"label":"NRW_RTZ_17",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9718,
-	"label":"NRW_RTZ_18"
+	"label":"NRW_RTZ_18",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9719,
-	"label":"NRW_RTZ_19"
+	"label":"NRW_RTZ_19",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9720,
-	"label":"NRW_RTZ_20"
+	"label":"NRW_RTZ_20",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9721,
-	"label":"NRW_RTZ_21"
+	"label":"NRW_RTZ_21",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9722,
-	"label":"NRW_RTZ_22"
+	"label":"NRW_RTZ_22",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9723,
-	"label":"NRW_RTZ_23"
+	"label":"NRW_RTZ_23",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9724,
-	"label":"NRW_RTZ_24"
+	"label":"NRW_RTZ_24",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9725,
-	"label":"NRW_RTZ_25"
+	"label":"NRW_RTZ_25",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9726,
-	"label":"NRW_RTZ_26"
+	"label":"NRW_RTZ_26",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9727,
-	"label":"NRW_RTZ_27"
+	"label":"NRW_RTZ_27",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9728,
-	"label":"NRW_RTZ_28"
+	"label":"NRW_RTZ_28",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9729,
-	"label":"NRW_RTZ_29"
+	"label":"NRW_RTZ_29",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9730,
-	"label":"NRW_RTZ_30"
+	"label":"NRW_RTZ_30",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9731,
-	"label":"NRW_RTZ_31"
+	"label":"NRW_RTZ_31",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9732,
-	"label":"NRW_RTZ_32"
+	"label":"NRW_RTZ_32",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9733,
-	"label":"NRW_RTZ_33"
+	"label":"NRW_RTZ_33",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9734,
-	"label":"NRW_RTZ_34"
+	"label":"NRW_RTZ_34",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9735,
-	"label":"NRW_RTZ_35"
+	"label":"NRW_RTZ_35",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9736,
-	"label":"NRW_RTZ_36"
+	"label":"NRW_RTZ_36",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9737,
-	"label":"NRW_RTZ_37"
+	"label":"NRW_RTZ_37",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9738,
-	"label":"NRW_RTZ_38"
+	"label":"NRW_RTZ_38",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9739,
-	"label":"NRW_RTZ_39"
+	"label":"NRW_RTZ_39",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9740,
-	"label":"NRW_RTZ_40"
+	"label":"NRW_RTZ_40",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9741,
-	"label":"NRW_RTZ_41"
+	"label":"NRW_RTZ_41",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9742,
-	"label":"NRW_RTZ_42"
+	"label":"NRW_RTZ_42",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9743,
-	"label":"NRW_RTZ_43"
+	"label":"NRW_RTZ_43",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9744,
-	"label":"NRW_RTZ_44"
+	"label":"NRW_RTZ_44",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9745,
-	"label":"NRW_RTZ_45"
+	"label":"NRW_RTZ_45",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9746,
-	"label":"NRW_RTZ_46"
+	"label":"NRW_RTZ_46",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9747,
-	"label":"NRW_RTZ_47"
+	"label":"NRW_RTZ_47",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9748,
-	"label":"NRW_RTZ_48"
+	"label":"NRW_RTZ_48",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9749,
-	"label":"NRW_RTZ_49"
+	"label":"NRW_RTZ_49",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9750,
-	"label":"NRW_RTZ_50"
+	"label":"NRW_RTZ_50",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9751,
-	"label":"NRW_RTZ_51"
+	"label":"NRW_RTZ_51",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9752,
-	"label":"NRW_RTZ_52"
+	"label":"NRW_RTZ_52",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9753,
-	"label":"NRW_RTZ_53"
+	"label":"NRW_RTZ_53",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9754,
-	"label":"NRW_RTZ_54"
+	"label":"NRW_RTZ_54",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9755,
-	"label":"NRW_RTZ_55"
+	"label":"NRW_RTZ_55",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9756,
-	"label":"NRW_RTZ_56"
+	"label":"NRW_RTZ_56",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9757,
-	"label":"NRW_RTZ_57"
+	"label":"NRW_RTZ_57",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9758,
-	"label":"NRW_RTZ_58"
+	"label":"NRW_RTZ_58",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9759,
-	"label":"NRW_RTZ_59"
+	"label":"NRW_RTZ_59",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9760,
-	"label":"NRW_RTZ_60"
+	"label":"NRW_RTZ_60",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_adhoc_land"
 },
 {
 	"value":9801,
-	"label":"NRW_ZBV_01"
+	"label":"NRW_ZBV_01",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9802,
-	"label":"NRW_ZBV_02"
+	"label":"NRW_ZBV_02",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9803,
-	"label":"NRW_ZBV_03"
+	"label":"NRW_ZBV_03",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9804,
-	"label":"NRW_ZBV_04"
+	"label":"NRW_ZBV_04",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9805,
-	"label":"NRW_ZBV_05"
+	"label":"NRW_ZBV_05",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9806,
-	"label":"NRW_ZBV_06"
+	"label":"NRW_ZBV_06",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9807,
-	"label":"NRW_ZBV_07"
+	"label":"NRW_ZBV_07",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9808,
-	"label":"NRW_ZBV_08"
+	"label":"NRW_ZBV_08",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9809,
-	"label":"NRW_ZBV_09"
+	"label":"NRW_ZBV_09",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9810,
-	"label":"NRW_ZBV_10"
+	"label":"NRW_ZBV_10",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9811,
-	"label":"NRW_ZBV_11"
+	"label":"NRW_ZBV_11",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9812,
-	"label":"NRW_ZBV_12"
+	"label":"NRW_ZBV_12",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9813,
-	"label":"NRW_ZBV_13"
+	"label":"NRW_ZBV_13",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9814,
-	"label":"NRW_ZBV_14"
+	"label":"NRW_ZBV_14",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9815,
-	"label":"NRW_ZBV_15"
+	"label":"NRW_ZBV_15",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9816,
-	"label":"NRW_ZBV_16"
+	"label":"NRW_ZBV_16",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9817,
-	"label":"NRW_ZBV_17"
+	"label":"NRW_ZBV_17",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9818,
-	"label":"NRW_ZBV_18"
+	"label":"NRW_ZBV_18",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9819,
-	"label":"NRW_ZBV_19"
+	"label":"NRW_ZBV_19",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9820,
-	"label":"NRW_ZBV_20"
+	"label":"NRW_ZBV_20",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9821,
-	"label":"NRW_ZBV_21"
+	"label":"NRW_ZBV_21",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9822,
-	"label":"NRW_ZBV_22"
+	"label":"NRW_ZBV_22",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9823,
-	"label":"NRW_ZBV_23"
+	"label":"NRW_ZBV_23",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9824,
-	"label":"NRW_ZBV_24"
+	"label":"NRW_ZBV_24",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9825,
-	"label":"NRW_ZBV_25"
+	"label":"NRW_ZBV_25",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9826,
-	"label":"NRW_ZBV_26"
+	"label":"NRW_ZBV_26",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9827,
-	"label":"NRW_ZBV_27"
+	"label":"NRW_ZBV_27",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9828,
-	"label":"NRW_ZBV_28"
+	"label":"NRW_ZBV_28",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9829,
-	"label":"NRW_ZBV_29"
+	"label":"NRW_ZBV_29",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9830,
-	"label":"NRW_ZBV_30"
+	"label":"NRW_ZBV_30",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9831,
-	"label":"NRW_ZBV_31"
+	"label":"NRW_ZBV_31",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9832,
-	"label":"NRW_ZBV_32"
+	"label":"NRW_ZBV_32",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9833,
-	"label":"NRW_ZBV_33"
+	"label":"NRW_ZBV_33",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9834,
-	"label":"NRW_ZBV_34"
+	"label":"NRW_ZBV_34",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9835,
-	"label":"NRW_ZBV_35"
+	"label":"NRW_ZBV_35",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9836,
-	"label":"NRW_ZBV_36"
+	"label":"NRW_ZBV_36",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9837,
-	"label":"NRW_ZBV_37"
+	"label":"NRW_ZBV_37",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9838,
-	"label":"NRW_ZBV_38"
+	"label":"NRW_ZBV_38",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9839,
-	"label":"NRW_ZBV_39"
+	"label":"NRW_ZBV_39",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9840,
-	"label":"NRW_ZBV_40"
+	"label":"NRW_ZBV_40",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9841,
-	"label":"NRW_ZBV_41"
+	"label":"NRW_ZBV_41",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9842,
-	"label":"NRW_ZBV_42"
+	"label":"NRW_ZBV_42",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9843,
-	"label":"NRW_ZBV_43"
+	"label":"NRW_ZBV_43",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9844,
-	"label":"NRW_ZBV_44"
+	"label":"NRW_ZBV_44",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9845,
-	"label":"NRW_ZBV_45"
+	"label":"NRW_ZBV_45",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9846,
-	"label":"NRW_ZBV_46"
+	"label":"NRW_ZBV_46",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9847,
-	"label":"NRW_ZBV_47"
+	"label":"NRW_ZBV_47",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9848,
-	"label":"NRW_ZBV_48"
+	"label":"NRW_ZBV_48",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9849,
-	"label":"NRW_ZBV_49"
+	"label":"NRW_ZBV_49",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9850,
-	"label":"NRW_ZBV_50"
+	"label":"NRW_ZBV_50",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9851,
-	"label":"NRW_ZBV_51"
+	"label":"NRW_ZBV_51",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9852,
-	"label":"NRW_ZBV_52"
+	"label":"NRW_ZBV_52",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9853,
-	"label":"NRW_ZBV_53"
+	"label":"NRW_ZBV_53",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9854,
-	"label":"NRW_ZBV_54"
+	"label":"NRW_ZBV_54",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9855,
-	"label":"NRW_ZBV_55"
+	"label":"NRW_ZBV_55",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9856,
-	"label":"NRW_ZBV_56"
+	"label":"NRW_ZBV_56",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9857,
-	"label":"NRW_ZBV_57"
+	"label":"NRW_ZBV_57",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9858,
-	"label":"NRW_ZBV_58"
+	"label":"NRW_ZBV_58",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9859,
-	"label":"NRW_ZBV_59"
+	"label":"NRW_ZBV_59",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":9860,
-	"label":"NRW_ZBV_60"
+	"label":"NRW_ZBV_60",
+	"nPol":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Zusatztext":"text_plan_land"
 },
 {
 	"value":5010,
@@ -8732,7 +9408,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9528
 },
 {
 	"value":7236,
@@ -8750,7 +9427,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9529
 },
 {
 	"value":5003,
@@ -8866,7 +9544,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9570
 },
 {
 	"value":7237,
@@ -8884,7 +9563,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9517
 },
 {
 	"value":5103,
@@ -9048,7 +9728,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9636
 },
 {
 	"value":7238,
@@ -9066,7 +9747,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9636
 },
 {
 	"value":5203,
@@ -9364,7 +10046,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9657
 },
 {
 	"value":7239,
@@ -9382,7 +10065,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9658
 },
 {
 	"value":5303,
@@ -9645,7 +10329,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9531
 },
 {
 	"value":5402,
@@ -9656,7 +10341,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9532
 },
 {
 	"value":5403,
@@ -9779,7 +10465,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9534
 },
 {
 	"value":5502,
@@ -9790,7 +10477,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9535
 },
 {
 	"value":5503,
@@ -9949,7 +10637,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9573
 },
 {
 	"value":7240,
@@ -9967,7 +10656,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9574
 },
 {
 	"value":5603,
@@ -10146,7 +10836,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9576
 },
 {
 	"value":7241,
@@ -10164,7 +10855,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9577
 },
 {
 	"value":5703,
@@ -10421,7 +11113,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9660
 },
 {
 	"value":7242,
@@ -10439,7 +11132,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9661
 },
 {
 	"value":5803,
@@ -10661,7 +11355,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9615
 },
 {
 	"value":7243,
@@ -10679,7 +11374,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9616
 },
 {
 	"value":5903,
@@ -10806,739 +11502,2027 @@ const gruppen = // cut here!!!
 },
 {
 	"value":8001,
-	"label":"TBZ_001_UNI"
+	"label":"TBZ_001_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8002,
-	"label":"TBZ_002_UNI"
+	"label":"TBZ_002_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8003,
-	"label":"TBZ_003_UNI"
+	"label":"TBZ_003_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8004,
-	"label":"TBZ_004_UNI"
+	"label":"TBZ_004_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8005,
-	"label":"TBZ_005_UNI"
+	"label":"TBZ_005_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8006,
-	"label":"TBZ_006_UNI"
+	"label":"TBZ_006_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8007,
-	"label":"TBZ_007_UNI"
+	"label":"TBZ_007_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8008,
-	"label":"TBZ_008_UNI"
+	"label":"TBZ_008_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8009,
-	"label":"TBZ_009_UNI"
+	"label":"TBZ_009_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8010,
-	"label":"TBZ_010_UNI"
+	"label":"TBZ_010_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8011,
-	"label":"TBZ_011_UNI"
+	"label":"TBZ_011_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8012,
-	"label":"TBZ_012_UNI"
+	"label":"TBZ_012_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8013,
-	"label":"TBZ_013_UNI"
+	"label":"TBZ_013_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8014,
-	"label":"TBZ_014_UNI"
+	"label":"TBZ_014_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8015,
-	"label":"TBZ_015_UNI"
+	"label":"TBZ_015_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8016,
-	"label":"TBZ_016_UNI"
+	"label":"TBZ_016_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8017,
-	"label":"TBZ_017_UNI"
+	"label":"TBZ_017_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8018,
-	"label":"TBZ_018_UNI"
+	"label":"TBZ_018_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8019,
-	"label":"TBZ_019_UNI"
+	"label":"TBZ_019_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8020,
-	"label":"TBZ_020_UNI"
+	"label":"TBZ_020_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8021,
-	"label":"TBZ_021_UNI"
+	"label":"TBZ_021_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8022,
-	"label":"TBZ_022_UNI"
+	"label":"TBZ_022_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8023,
-	"label":"TBZ_023_UNI"
+	"label":"TBZ_023_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8024,
-	"label":"TBZ_024_UNI"
+	"label":"TBZ_024_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8025,
-	"label":"TBZ_025_UNI"
+	"label":"TBZ_025_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8026,
-	"label":"TBZ_026_UNI"
+	"label":"TBZ_026_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8027,
-	"label":"TBZ_027_UNI"
+	"label":"TBZ_027_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8028,
-	"label":"TBZ_028_UNI"
+	"label":"TBZ_028_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8029,
-	"label":"TBZ_029_UNI"
+	"label":"TBZ_029_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8030,
-	"label":"TBZ_030_UNI"
+	"label":"TBZ_030_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8031,
-	"label":"TBZ_031_UNI"
+	"label":"TBZ_031_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8032,
-	"label":"TBZ_032_UNI"
+	"label":"TBZ_032_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8033,
-	"label":"TBZ_033_UNI"
+	"label":"TBZ_033_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8034,
-	"label":"TBZ_034_UNI"
+	"label":"TBZ_034_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8035,
-	"label":"TBZ_035_UNI"
+	"label":"TBZ_035_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8036,
-	"label":"TBZ_036_UNI"
+	"label":"TBZ_036_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8037,
-	"label":"TBZ_037_UNI"
+	"label":"TBZ_037_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8038,
-	"label":"TBZ_038_UNI"
+	"label":"TBZ_038_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8039,
-	"label":"TBZ_039_UNI"
+	"label":"TBZ_039_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8040,
-	"label":"TBZ_040_UNI"
+	"label":"TBZ_040_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8041,
-	"label":"TBZ_041_UNI"
+	"label":"TBZ_041_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8042,
-	"label":"TBZ_042_UNI"
+	"label":"TBZ_042_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8043,
-	"label":"TBZ_043_UNI"
+	"label":"TBZ_043_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8044,
-	"label":"TBZ_044_UNI"
+	"label":"TBZ_044_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8045,
-	"label":"TBZ_045_UNI"
+	"label":"TBZ_045_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8046,
-	"label":"TBZ_046_UNI"
+	"label":"TBZ_046_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8047,
-	"label":"TBZ_047_UNI"
+	"label":"TBZ_047_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8048,
-	"label":"TBZ_048_UNI"
+	"label":"TBZ_048_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8049,
-	"label":"TBZ_049_UNI"
+	"label":"TBZ_049_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8050,
-	"label":"TBZ_050_UNI"
+	"label":"TBZ_050_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8051,
-	"label":"TBZ_051_UNI"
+	"label":"TBZ_051_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8052,
-	"label":"TBZ_052_UNI"
+	"label":"TBZ_052_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8053,
-	"label":"TBZ_053_UNI"
+	"label":"TBZ_053_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8054,
-	"label":"TBZ_054_UNI"
+	"label":"TBZ_054_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8055,
-	"label":"TBZ_055_UNI"
+	"label":"TBZ_055_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8056,
-	"label":"TBZ_056_UNI"
+	"label":"TBZ_056_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8057,
-	"label":"TBZ_057_UNI"
+	"label":"TBZ_057_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8058,
-	"label":"TBZ_058_UNI"
+	"label":"TBZ_058_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8059,
-	"label":"TBZ_059_UNI"
+	"label":"TBZ_059_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8060,
-	"label":"TBZ_060_UNI"
+	"label":"TBZ_060_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8061,
-	"label":"TBZ_061_UNI"
+	"label":"TBZ_061_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8062,
-	"label":"TBZ_062_UNI"
+	"label":"TBZ_062_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8063,
-	"label":"TBZ_063_UNI"
+	"label":"TBZ_063_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8064,
-	"label":"TBZ_064_UNI"
+	"label":"TBZ_064_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8065,
-	"label":"TBZ_065_UNI"
+	"label":"TBZ_065_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8066,
-	"label":"TBZ_066_UNI"
+	"label":"TBZ_066_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8067,
-	"label":"TBZ_067_UNI"
+	"label":"TBZ_067_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8068,
-	"label":"TBZ_068_UNI"
+	"label":"TBZ_068_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8069,
-	"label":"TBZ_069_UNI"
+	"label":"TBZ_069_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8070,
-	"label":"TBZ_070_UNI"
+	"label":"TBZ_070_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8071,
-	"label":"TBZ_071_UNI"
+	"label":"TBZ_071_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8072,
-	"label":"TBZ_072_UNI"
+	"label":"TBZ_072_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8073,
-	"label":"TBZ_073_UNI"
+	"label":"TBZ_073_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8074,
-	"label":"TBZ_074_UNI"
+	"label":"TBZ_074_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8075,
-	"label":"TBZ_075_UNI"
+	"label":"TBZ_075_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8076,
-	"label":"TBZ_076_UNI"
+	"label":"TBZ_076_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8077,
-	"label":"TBZ_077_UNI"
+	"label":"TBZ_077_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8078,
-	"label":"TBZ_078_UNI"
+	"label":"TBZ_078_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8079,
-	"label":"TBZ_079_UNI"
+	"label":"TBZ_079_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8080,
-	"label":"TBZ_080_UNI"
+	"label":"TBZ_080_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8081,
-	"label":"TBZ_081_UNI"
+	"label":"TBZ_081_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8082,
-	"label":"TBZ_082_UNI"
+	"label":"TBZ_082_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8083,
-	"label":"TBZ_083_UNI"
+	"label":"TBZ_083_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8084,
-	"label":"TBZ_084_UNI"
+	"label":"TBZ_084_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8085,
-	"label":"TBZ_085_UNI"
+	"label":"TBZ_085_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8086,
-	"label":"TBZ_086_UNI"
+	"label":"TBZ_086_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8087,
-	"label":"TBZ_087_UNI"
+	"label":"TBZ_087_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8088,
-	"label":"TBZ_088_UNI"
+	"label":"TBZ_088_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8089,
-	"label":"TBZ_089_UNI"
+	"label":"TBZ_089_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8090,
-	"label":"TBZ_090_UNI"
+	"label":"TBZ_090_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8091,
-	"label":"TBZ_091_UNI"
+	"label":"TBZ_091_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8092,
-	"label":"TBZ_092_UNI"
+	"label":"TBZ_092_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8093,
-	"label":"TBZ_093_UNI"
+	"label":"TBZ_093_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8094,
-	"label":"TBZ_094_UNI"
+	"label":"TBZ_094_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8095,
-	"label":"TBZ_095_UNI"
+	"label":"TBZ_095_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8096,
-	"label":"TBZ_096_UNI"
+	"label":"TBZ_096_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8097,
-	"label":"TBZ_097_UNI"
+	"label":"TBZ_097_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8098,
-	"label":"TBZ_098_UNI"
+	"label":"TBZ_098_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8099,
-	"label":"TBZ_099_UNI"
+	"label":"TBZ_099_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8100,
-	"label":"TBZ_100_UNI"
+	"label":"TBZ_100_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8101,
-	"label":"TBZ_101_UNI"
+	"label":"TBZ_101_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8102,
-	"label":"TBZ_102_UNI"
+	"label":"TBZ_102_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8103,
-	"label":"TBZ_103_UNI"
+	"label":"TBZ_103_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8104,
-	"label":"TBZ_104_UNI"
+	"label":"TBZ_104_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8105,
-	"label":"TBZ_105_UNI"
+	"label":"TBZ_105_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8106,
-	"label":"TBZ_106_UNI"
+	"label":"TBZ_106_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8107,
-	"label":"TBZ_107_UNI"
+	"label":"TBZ_107_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8108,
-	"label":"TBZ_108_UNI"
+	"label":"TBZ_108_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8109,
-	"label":"TBZ_109_UNI"
+	"label":"TBZ_109_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8110,
-	"label":"TBZ_110_UNI"
+	"label":"TBZ_110_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8111,
-	"label":"TBZ_111_UNI"
+	"label":"TBZ_111_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8112,
-	"label":"TBZ_112_UNI"
+	"label":"TBZ_112_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8113,
-	"label":"TBZ_113_UNI"
+	"label":"TBZ_113_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8114,
-	"label":"TBZ_114_UNI"
+	"label":"TBZ_114_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8115,
-	"label":"TBZ_115_UNI"
+	"label":"TBZ_115_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8116,
-	"label":"TBZ_116_UNI"
+	"label":"TBZ_116_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8117,
-	"label":"TBZ_117_UNI"
+	"label":"TBZ_117_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8118,
-	"label":"TBZ_118_UNI"
+	"label":"TBZ_118_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8119,
-	"label":"TBZ_119_UNI"
+	"label":"TBZ_119_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8120,
-	"label":"TBZ_120_UNI"
+	"label":"TBZ_120_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8121,
-	"label":"TBZ_121_UNI"
+	"label":"TBZ_121_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8122,
-	"label":"TBZ_122_UNI"
+	"label":"TBZ_122_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8123,
-	"label":"TBZ_123_UNI"
+	"label":"TBZ_123_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8124,
-	"label":"TBZ_124_UNI"
+	"label":"TBZ_124_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8125,
-	"label":"TBZ_125_UNI"
+	"label":"TBZ_125_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8126,
-	"label":"TBZ_126_UNI"
+	"label":"TBZ_126_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8127,
-	"label":"TBZ_127_UNI"
+	"label":"TBZ_127_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8128,
-	"label":"TBZ_128_UNI"
+	"label":"TBZ_128_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8129,
-	"label":"TBZ_129_UNI"
+	"label":"TBZ_129_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8130,
-	"label":"TBZ_130_UNI"
+	"label":"TBZ_130_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8131,
-	"label":"TBZ_131_UNI"
+	"label":"TBZ_131_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8132,
-	"label":"TBZ_132_UNI"
+	"label":"TBZ_132_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8133,
-	"label":"TBZ_133_UNI"
+	"label":"TBZ_133_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8134,
-	"label":"TBZ_134_UNI"
+	"label":"TBZ_134_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8135,
-	"label":"TBZ_135_UNI"
+	"label":"TBZ_135_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8136,
-	"label":"TBZ_136_UNI"
+	"label":"TBZ_136_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8137,
-	"label":"TBZ_137_UNI"
+	"label":"TBZ_137_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8138,
-	"label":"TBZ_138_UNI"
+	"label":"TBZ_138_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8139,
-	"label":"TBZ_139_UNI"
+	"label":"TBZ_139_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8140,
-	"label":"TBZ_140_UNI"
+	"label":"TBZ_140_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8141,
-	"label":"TBZ_141_UNI"
+	"label":"TBZ_141_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8142,
-	"label":"TBZ_142_UNI"
+	"label":"TBZ_142_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8143,
-	"label":"TBZ_143_UNI"
+	"label":"TBZ_143_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8144,
-	"label":"TBZ_144_UNI"
+	"label":"TBZ_144_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8145,
-	"label":"TBZ_145_UNI"
+	"label":"TBZ_145_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8146,
-	"label":"TBZ_146_UNI"
+	"label":"TBZ_146_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8147,
-	"label":"TBZ_147_UNI"
+	"label":"TBZ_147_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8148,
-	"label":"TBZ_148_UNI"
+	"label":"TBZ_148_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8149,
-	"label":"TBZ_149_UNI"
+	"label":"TBZ_149_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8150,
-	"label":"TBZ_150_UNI"
+	"label":"TBZ_150_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8151,
-	"label":"TBZ_151_UNI"
+	"label":"TBZ_151_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8152,
-	"label":"TBZ_152_UNI"
+	"label":"TBZ_152_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8153,
-	"label":"TBZ_153_UNI"
+	"label":"TBZ_153_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8154,
-	"label":"TBZ_154_UNI"
+	"label":"TBZ_154_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8155,
-	"label":"TBZ_155_UNI"
+	"label":"TBZ_155_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8156,
-	"label":"TBZ_156_UNI"
+	"label":"TBZ_156_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8157,
-	"label":"TBZ_157_UNI"
+	"label":"TBZ_157_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8158,
-	"label":"TBZ_158_UNI"
+	"label":"TBZ_158_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8159,
-	"label":"TBZ_159_UNI"
+	"label":"TBZ_159_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8160,
-	"label":"TBZ_160_UNI"
+	"label":"TBZ_160_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8161,
-	"label":"TBZ_161_UNI"
+	"label":"TBZ_161_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8162,
-	"label":"TBZ_162_UNI"
+	"label":"TBZ_162_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8163,
-	"label":"TBZ_163_UNI"
+	"label":"TBZ_163_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8164,
-	"label":"TBZ_164_UNI"
+	"label":"TBZ_164_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8165,
-	"label":"TBZ_165_UNI"
+	"label":"TBZ_165_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8166,
-	"label":"TBZ_166_UNI"
+	"label":"TBZ_166_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8167,
-	"label":"TBZ_167_UNI"
+	"label":"TBZ_167_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8168,
-	"label":"TBZ_168_UNI"
+	"label":"TBZ_168_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8169,
-	"label":"TBZ_169_UNI"
+	"label":"TBZ_169_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8170,
-	"label":"TBZ_170_UNI"
+	"label":"TBZ_170_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8171,
-	"label":"TBZ_171_UNI"
+	"label":"TBZ_171_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8172,
-	"label":"TBZ_172_UNI"
+	"label":"TBZ_172_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8173,
-	"label":"TBZ_173_UNI"
+	"label":"TBZ_173_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8174,
-	"label":"TBZ_174_UNI"
+	"label":"TBZ_174_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8175,
-	"label":"TBZ_175_UNI"
+	"label":"TBZ_175_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8176,
-	"label":"TBZ_176_UNI"
+	"label":"TBZ_176_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8177,
-	"label":"TBZ_177_UNI"
+	"label":"TBZ_177_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8178,
-	"label":"TBZ_178_UNI"
+	"label":"TBZ_178_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8179,
-	"label":"TBZ_179_UNI"
+	"label":"TBZ_179_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8180,
-	"label":"TBZ_180_UNI"
+	"label":"TBZ_180_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8181,
-	"label":"TBZ_181_UNI"
+	"label":"TBZ_181_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8182,
-	"label":"TBZ_182_UNI"
+	"label":"TBZ_182_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8183,
-	"label":"TBZ_183_UNI"
+	"label":"TBZ_183_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8184,
-	"label":"TBZ_184_UNI"
+	"label":"TBZ_184_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8185,
@@ -11826,39 +13810,102 @@ const gruppen = // cut here!!!
 },
 {
 	"value":8256,
-	"label":"TBZ_256_NW"
+	"label":"TBZ_256_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8257,
-	"label":"TBZ_257_NW"
+	"label":"TBZ_257_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8258,
-	"label":"TBZ_258_NW"
+	"label":"TBZ_258_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8259,
-	"label":"TBZ_259_NW"
+	"label":"TBZ_259_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8260,
-	"label":"TBZ_260_NW"
+	"label":"TBZ_260_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8261,
-	"label":"TBZ_261_NW"
+	"label":"TBZ_261_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8262,
-	"label":"TBZ_262_NW"
+	"label":"TBZ_262_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8263,
-	"label":"TBZ_263_NW"
+	"label":"TBZ_263_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8264,
-	"label":"TBZ_264_NW"
+	"label":"TBZ_264_NW",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8265,
@@ -12002,643 +14049,1823 @@ const gruppen = // cut here!!!
 },
 {
 	"value":8301,
-	"label":"TBZ_301_BOS"
+	"label":"TBZ_301_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8302,
-	"label":"TBZ_302_BOS"
+	"label":"TBZ_302_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8303,
-	"label":"TBZ_303_BOS"
+	"label":"TBZ_303_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8304,
-	"label":"TBZ_304_BOS"
+	"label":"TBZ_304_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8305,
-	"label":"TBZ_305_BOS"
+	"label":"TBZ_305_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8306,
-	"label":"TBZ_306_BOS"
+	"label":"TBZ_306_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8307,
-	"label":"TBZ_307_BOS"
+	"label":"TBZ_307_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8308,
-	"label":"TBZ_308_BOS"
+	"label":"TBZ_308_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8309,
-	"label":"TBZ_309_BOS"
+	"label":"TBZ_309_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8310,
-	"label":"TBZ_310_BOS"
+	"label":"TBZ_310_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8311,
-	"label":"TBZ_311_BOS"
+	"label":"TBZ_311_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8312,
-	"label":"TBZ_312_BOS"
+	"label":"TBZ_312_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8313,
-	"label":"TBZ_313_BOS"
+	"label":"TBZ_313_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8314,
-	"label":"TBZ_314_BOS"
+	"label":"TBZ_314_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8315,
-	"label":"TBZ_315_BOS"
+	"label":"TBZ_315_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8316,
-	"label":"TBZ_316_BOS"
+	"label":"TBZ_316_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8317,
-	"label":"TBZ_317_BOS"
+	"label":"TBZ_317_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8318,
-	"label":"TBZ_318_BOS"
+	"label":"TBZ_318_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8319,
-	"label":"TBZ_319_BOS"
+	"label":"TBZ_319_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8320,
-	"label":"TBZ_320_BOS"
+	"label":"TBZ_320_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8321,
-	"label":"TBZ_321_BOS"
+	"label":"TBZ_321_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8322,
-	"label":"TBZ_322_BOS"
+	"label":"TBZ_322_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8323,
-	"label":"TBZ_323_BOS"
+	"label":"TBZ_323_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8324,
-	"label":"TBZ_324_BOS"
+	"label":"TBZ_324_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8325,
-	"label":"TBZ_325_BOS"
+	"label":"TBZ_325_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8326,
-	"label":"TBZ_326_BOS"
+	"label":"TBZ_326_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8327,
-	"label":"TBZ_327_BOS"
+	"label":"TBZ_327_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8328,
-	"label":"TBZ_328_BOS"
+	"label":"TBZ_328_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8329,
-	"label":"TBZ_329_BOS"
+	"label":"TBZ_329_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8330,
-	"label":"TBZ_330_BOS"
+	"label":"TBZ_330_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8331,
-	"label":"TBZ_331_BOS"
+	"label":"TBZ_331_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8332,
-	"label":"TBZ_332_BOS"
+	"label":"TBZ_332_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8333,
-	"label":"TBZ_333_BOS"
+	"label":"TBZ_333_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8334,
-	"label":"TBZ_334_BOS"
+	"label":"TBZ_334_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8335,
-	"label":"TBZ_335_BOS"
+	"label":"TBZ_335_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8336,
-	"label":"TBZ_336_BOS"
+	"label":"TBZ_336_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8337,
-	"label":"TBZ_337_BOS"
+	"label":"TBZ_337_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8338,
-	"label":"TBZ_338_BOS"
+	"label":"TBZ_338_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8339,
-	"label":"TBZ_339_BOS"
+	"label":"TBZ_339_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8340,
-	"label":"TBZ_340_BOS"
+	"label":"TBZ_340_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8341,
-	"label":"TBZ_341_BOS"
+	"label":"TBZ_341_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8342,
-	"label":"TBZ_342_BOS"
+	"label":"TBZ_342_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8343,
-	"label":"TBZ_343_BOS"
+	"label":"TBZ_343_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8344,
-	"label":"TBZ_344_BOS"
+	"label":"TBZ_344_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8345,
-	"label":"TBZ_345_BOS"
+	"label":"TBZ_345_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8346,
-	"label":"TBZ_346_BOS"
+	"label":"TBZ_346_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8347,
-	"label":"TBZ_347_BOS"
+	"label":"TBZ_347_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8348,
-	"label":"TBZ_348_BOS"
+	"label":"TBZ_348_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8349,
-	"label":"TBZ_349_BOS"
+	"label":"TBZ_349_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8350,
-	"label":"TBZ_350_BOS"
+	"label":"TBZ_350_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8351,
-	"label":"TBZ_351_BOS"
+	"label":"TBZ_351_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8352,
-	"label":"TBZ_352_BOS"
+	"label":"TBZ_352_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8353,
-	"label":"TBZ_353_BOS"
+	"label":"TBZ_353_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8354,
-	"label":"TBZ_354_BOS"
+	"label":"TBZ_354_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8355,
-	"label":"TBZ_355_BOS"
+	"label":"TBZ_355_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8356,
-	"label":"TBZ_356_BOS"
+	"label":"TBZ_356_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8357,
-	"label":"TBZ_357_BOS"
+	"label":"TBZ_357_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8358,
-	"label":"TBZ_358_BOS"
+	"label":"TBZ_358_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8359,
-	"label":"TBZ_359_BOS"
+	"label":"TBZ_359_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8360,
-	"label":"TBZ_360_BOS"
+	"label":"TBZ_360_BOS",
+	"RTH":true,
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_adhoc_bund"
 },
 {
 	"value":8600,
-	"label":"TBZ_600_UNI"
+	"label":"TBZ_600_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8601,
-	"label":"TBZ_601_UNI"
+	"label":"TBZ_601_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8602,
-	"label":"TBZ_602_UNI"
+	"label":"TBZ_602_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8603,
-	"label":"TBZ_603_UNI"
+	"label":"TBZ_603_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8604,
-	"label":"TBZ_604_UNI"
+	"label":"TBZ_604_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8605,
-	"label":"TBZ_605_UNI"
+	"label":"TBZ_605_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8606,
-	"label":"TBZ_606_UNI"
+	"label":"TBZ_606_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8607,
-	"label":"TBZ_607_UNI"
+	"label":"TBZ_607_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8608,
-	"label":"TBZ_608_UNI"
+	"label":"TBZ_608_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8609,
-	"label":"TBZ_609_UNI"
+	"label":"TBZ_609_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8610,
-	"label":"TBZ_610_UNI"
+	"label":"TBZ_610_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8611,
-	"label":"TBZ_611_UNI"
+	"label":"TBZ_611_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8612,
-	"label":"TBZ_612_UNI"
+	"label":"TBZ_612_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8613,
-	"label":"TBZ_613_UNI"
+	"label":"TBZ_613_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8614,
-	"label":"TBZ_614_UNI"
+	"label":"TBZ_614_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8615,
-	"label":"TBZ_615_UNI"
+	"label":"TBZ_615_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8616,
-	"label":"TBZ_616_UNI"
+	"label":"TBZ_616_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8617,
-	"label":"TBZ_617_UNI"
+	"label":"TBZ_617_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8618,
-	"label":"TBZ_618_UNI"
+	"label":"TBZ_618_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8619,
-	"label":"TBZ_619_UNI"
+	"label":"TBZ_619_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8620,
-	"label":"TBZ_620_UNI"
+	"label":"TBZ_620_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8621,
-	"label":"TBZ_621_UNI"
+	"label":"TBZ_621_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8622,
-	"label":"TBZ_622_UNI"
+	"label":"TBZ_622_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8623,
-	"label":"TBZ_623_UNI"
+	"label":"TBZ_623_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8624,
-	"label":"TBZ_624_UNI"
+	"label":"TBZ_624_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8625,
-	"label":"TBZ_625_UNI"
+	"label":"TBZ_625_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8626,
-	"label":"TBZ_626_UNI"
+	"label":"TBZ_626_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8627,
-	"label":"TBZ_627_UNI"
+	"label":"TBZ_627_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8628,
-	"label":"TBZ_628_UNI"
+	"label":"TBZ_628_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8629,
-	"label":"TBZ_629_UNI"
+	"label":"TBZ_629_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8630,
-	"label":"TBZ_630_UNI"
+	"label":"TBZ_630_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8631,
-	"label":"TBZ_631_UNI"
+	"label":"TBZ_631_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8632,
-	"label":"TBZ_632_UNI"
+	"label":"TBZ_632_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8633,
-	"label":"TBZ_633_UNI"
+	"label":"TBZ_633_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8634,
-	"label":"TBZ_634_UNI"
+	"label":"TBZ_634_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8635,
-	"label":"TBZ_635_UNI"
+	"label":"TBZ_635_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8636,
-	"label":"TBZ_636_UNI"
+	"label":"TBZ_636_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8637,
-	"label":"TBZ_637_UNI"
+	"label":"TBZ_637_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8638,
-	"label":"TBZ_638_UNI"
+	"label":"TBZ_638_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8639,
-	"label":"TBZ_639_UNI"
+	"label":"TBZ_639_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8640,
-	"label":"TBZ_640_UNI"
+	"label":"TBZ_640_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8641,
-	"label":"TBZ_641_UNI"
+	"label":"TBZ_641_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8642,
-	"label":"TBZ_642_UNI"
+	"label":"TBZ_642_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8643,
-	"label":"TBZ_643_UNI"
+	"label":"TBZ_643_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8644,
-	"label":"TBZ_644_UNI"
+	"label":"TBZ_644_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8645,
-	"label":"TBZ_645_UNI"
+	"label":"TBZ_645_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8646,
-	"label":"TBZ_646_UNI"
+	"label":"TBZ_646_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8647,
-	"label":"TBZ_647_UNI"
+	"label":"TBZ_647_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8648,
-	"label":"TBZ_648_UNI"
+	"label":"TBZ_648_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8649,
-	"label":"TBZ_649_UNI"
+	"label":"TBZ_649_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8650,
-	"label":"TBZ_650_UNI"
+	"label":"TBZ_650_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8651,
-	"label":"TBZ_651_UNI"
+	"label":"TBZ_651_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8652,
-	"label":"TBZ_652_UNI"
+	"label":"TBZ_652_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8653,
-	"label":"TBZ_653_UNI"
+	"label":"TBZ_653_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8654,
-	"label":"TBZ_654_UNI"
+	"label":"TBZ_654_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8655,
-	"label":"TBZ_655_UNI"
+	"label":"TBZ_655_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8656,
-	"label":"TBZ_656_UNI"
+	"label":"TBZ_656_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8657,
-	"label":"TBZ_657_UNI"
+	"label":"TBZ_657_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8658,
-	"label":"TBZ_658_UNI"
+	"label":"TBZ_658_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8659,
-	"label":"TBZ_659_UNI"
+	"label":"TBZ_659_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8660,
-	"label":"TBZ_660_UNI"
+	"label":"TBZ_660_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8661,
-	"label":"TBZ_661_UNI"
+	"label":"TBZ_661_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8662,
-	"label":"TBZ_662_UNI"
+	"label":"TBZ_662_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8663,
-	"label":"TBZ_663_UNI"
+	"label":"TBZ_663_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8664,
-	"label":"TBZ_664_UNI"
+	"label":"TBZ_664_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8665,
-	"label":"TBZ_665_UNI"
+	"label":"TBZ_665_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8666,
-	"label":"TBZ_666_UNI"
+	"label":"TBZ_666_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8667,
-	"label":"TBZ_667_UNI"
+	"label":"TBZ_667_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8668,
-	"label":"TBZ_668_UNI"
+	"label":"TBZ_668_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8669,
-	"label":"TBZ_669_UNI"
+	"label":"TBZ_669_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8670,
-	"label":"TBZ_670_UNI"
+	"label":"TBZ_670_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8671,
-	"label":"TBZ_671_UNI"
+	"label":"TBZ_671_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8672,
-	"label":"TBZ_672_UNI"
+	"label":"TBZ_672_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8673,
-	"label":"TBZ_673_UNI"
+	"label":"TBZ_673_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8674,
-	"label":"TBZ_674_UNI"
+	"label":"TBZ_674_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8675,
-	"label":"TBZ_675_UNI"
+	"label":"TBZ_675_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8676,
-	"label":"TBZ_676_UNI"
+	"label":"TBZ_676_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8677,
-	"label":"TBZ_677_UNI"
+	"label":"TBZ_677_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8678,
-	"label":"TBZ_678_UNI"
+	"label":"TBZ_678_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8679,
-	"label":"TBZ_679_UNI"
+	"label":"TBZ_679_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8680,
-	"label":"TBZ_680_UNI"
+	"label":"TBZ_680_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8681,
-	"label":"TBZ_681_UNI"
+	"label":"TBZ_681_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8682,
-	"label":"TBZ_682_UNI"
+	"label":"TBZ_682_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8683,
-	"label":"TBZ_683_UNI"
+	"label":"TBZ_683_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8684,
-	"label":"TBZ_684_UNI"
+	"label":"TBZ_684_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8685,
-	"label":"TBZ_685_UNI"
+	"label":"TBZ_685_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8686,
-	"label":"TBZ_686_UNI"
+	"label":"TBZ_686_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8687,
-	"label":"TBZ_687_UNI"
+	"label":"TBZ_687_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8688,
-	"label":"TBZ_688_UNI"
+	"label":"TBZ_688_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8689,
-	"label":"TBZ_689_UNI"
+	"label":"TBZ_689_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8690,
-	"label":"TBZ_690_UNI"
+	"label":"TBZ_690_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8691,
-	"label":"TBZ_691_UNI"
+	"label":"TBZ_691_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8692,
-	"label":"TBZ_692_UNI"
+	"label":"TBZ_692_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8693,
-	"label":"TBZ_693_UNI"
+	"label":"TBZ_693_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8694,
-	"label":"TBZ_694_UNI"
+	"label":"TBZ_694_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8695,
-	"label":"TBZ_695_UNI"
+	"label":"TBZ_695_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8696,
-	"label":"TBZ_696_UNI"
+	"label":"TBZ_696_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8697,
-	"label":"TBZ_697_UNI"
+	"label":"TBZ_697_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8698,
-	"label":"TBZ_698_UNI"
+	"label":"TBZ_698_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":8699,
-	"label":"TBZ_699_UNI"
+	"label":"TBZ_699_UNI",
+	"nPol":true,
+	"THW":true,
+	"Pol":true,
+	"Kreisweit":true,
+	"Landesweit":true,
+	"Bundesweit":true,
+	"Zusatztext":"text_plan_bund"
 },
 {
 	"value":6010,
@@ -12785,7 +16012,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9579
 },
 {
 	"value":7244,
@@ -12803,7 +16031,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9580
 },
 {
 	"value":6003,
@@ -12941,7 +16170,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9537
 },
 {
 	"value":7245,
@@ -12959,7 +16189,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9538
 },
 {
 	"value":6103,
@@ -13096,7 +16327,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9540
 },
 {
 	"value":7246,
@@ -13114,7 +16346,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9541
 },
 {
 	"value":6203,
@@ -13279,7 +16512,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9663
 },
 {
 	"value":7247,
@@ -13297,7 +16531,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9664
 },
 {
 	"value":6303,
@@ -13477,7 +16712,8 @@ const gruppen = // cut here!!!
 	"Pol":true,
 	"OA":true,
 	"Kreisweit":true,
-	"Landesweit":true
+	"Landesweit":true,
+	"PolKW":9543
 },
 {
 	"value":7248,
