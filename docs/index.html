@@ -122,8 +122,8 @@ if ('serviceWorker' in navigator) {
 		<h6>Impressum</h6>
 		<p>M. Schmidt</p>
 		<p>Leitstelle Ennepe-Ruhr</p>
-		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V23%20-%20v3.2">m.schmidt@leitstelle-en.de</a></p>
-		<p class="version">v3.2</p>
+		<p><a href="mailto:m.schmidt@leitstelle-en.de?subject=Wg%3A%20Suchfunktion%20Rufgruppen%20NRW%20V23%20-%20v3.2.1">m.schmidt@leitstelle-en.de</a></p>
+		<p class="version">v3.2.1</p>
 	</footer>
 	<button class="add-button" style="display: none">Zum Startbildschirm hinzufügen</button><br/>
 </body>
@@ -135,7 +135,7 @@ let lastWert;
 $(() => {
 	$(".share-button").button()
 	$(".add-button").button()
-	const zusatzMapping= {
+	const zusatzMapping = {
 		"text_adhoc_bund" : "<div>Für Ad-hoc-Einsatzlagen;</div><div>Abstimmung mit TTB,</div><div>Freischaltung für alle BOS möglich</div>",
 		"text_adhoc_land": "<div>Für Ad-hoc-Einsatzlagen;</div><div>Abstimmung mit TTB</div>",
 		"text_plan_bund" : "<div>Für planbare Einsatzlagen;</div><div>Abstimmung mit TTB,</div><div>Freischaltung für alle BOS möglich</div>",
@@ -155,7 +155,7 @@ $(() => {
 			$('#wert').val(item.value)
 			const zusatzText = zusatzMapping[item.Zusatztext];
 			$('#zusatztext_label').toggle(!!zusatzText)
-			$('#zusatztext').append($(zusatzText)).toggle(!!zusatzText)
+			$('#zusatztext').empty().append($(zusatzText)).toggle(!!zusatzText)
 			$('#pol_kw').val(item.PolKW).toggle(!!item.PolKW)
 			$('#pol_kw_label').toggle(!!item.PolKW)
 			gruppenInput.val(item.label)
